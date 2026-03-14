@@ -1,0 +1,8 @@
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.8
+pandas>=2.0
+scikit-image>=0.21
+Pillow>=10.0
+cellpose>=3.0
+lifelines>=0.27

@@ -1,0 +1,6913 @@
+{
+  "tool": "hyphae_fft_density",
+  "session_version": 1,
+  "saved": "2026-03-09T05:19:44.515996",
+  "image_paths": [
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155950.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155519.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155530.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155614.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155713.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155748.JPG",
+    "/Users/yany/Downloads/Spacing/VMS_JPG/W2/20251210_155819.JPG"
+  ],
+  "current_index": 0,
+  "calibration_um_per_px": 0.9437776239712626,
+  "calibrated": true,
+  "band_width_px": 5,
+  "freq_cutoff": 0.05,
+  "peak_threshold": 0.005,
+  "per_image_state": {
+    "20251210_155950.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            3485.6,
+            2141.7
+          ],
+          "p1": [
+            4873.8,
+            1750.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051318,
+              "wavelength": 19.49,
+              "power": 27464.1192,
+              "density_per_unit": 0.051318
+            },
+            {
+              "rank": 2,
+              "frequency": 0.054785,
+              "wavelength": 18.25,
+              "power": 33545.229,
+              "density_per_unit": 0.054785
+            },
+            {
+              "rank": 3,
+              "frequency": 0.057559,
+              "wavelength": 17.37,
+              "power": 18263.5442,
+              "density_per_unit": 0.057559
+            },
+            {
+              "rank": 4,
+              "frequency": 0.058946,
+              "wavelength": 16.96,
+              "power": 18738.7128,
+              "density_per_unit": 0.058946
+            },
+            {
+              "rank": 5,
+              "frequency": 0.062413,
+              "wavelength": 16.02,
+              "power": 58475.3727,
+              "density_per_unit": 0.062413
+            },
+            {
+              "rank": 6,
+              "frequency": 0.064494,
+              "wavelength": 15.51,
+              "power": 14200.6083,
+              "density_per_unit": 0.064494
+            },
+            {
+              "rank": 7,
+              "frequency": 0.066574,
+              "wavelength": 15.02,
+              "power": 24358.7259,
+              "density_per_unit": 0.066574
+            },
+            {
+              "rank": 8,
+              "frequency": 0.070042,
+              "wavelength": 14.28,
+              "power": 7569.1434,
+              "density_per_unit": 0.070042
+            },
+            {
+              "rank": 9,
+              "frequency": 0.072816,
+              "wavelength": 13.73,
+              "power": 24218.1762,
+              "density_per_unit": 0.072816
+            },
+            {
+              "rank": 10,
+              "frequency": 0.079057,
+              "wavelength": 12.65,
+              "power": 9464.7236,
+              "density_per_unit": 0.079057
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            980.6,
+            2976.7
+          ],
+          "p1": [
+            1826.1,
+            2428.7
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.052632,
+              "wavelength": 19.0,
+              "power": 15845.7451,
+              "density_per_unit": 0.052632
+            },
+            {
+              "rank": 2,
+              "frequency": 0.054618,
+              "wavelength": 18.31,
+              "power": 17988.2307,
+              "density_per_unit": 0.054618
+            },
+            {
+              "rank": 3,
+              "frequency": 0.057597,
+              "wavelength": 17.36,
+              "power": 14379.5541,
+              "density_per_unit": 0.057597
+            },
+            {
+              "rank": 4,
+              "frequency": 0.064548,
+              "wavelength": 15.49,
+              "power": 2596.6163,
+              "density_per_unit": 0.064548
+            },
+            {
+              "rank": 5,
+              "frequency": 0.066534,
+              "wavelength": 15.03,
+              "power": 1576.6058,
+              "density_per_unit": 0.066534
+            },
+            {
+              "rank": 6,
+              "frequency": 0.072493,
+              "wavelength": 13.79,
+              "power": 8781.4986,
+              "density_per_unit": 0.072493
+            },
+            {
+              "rank": 7,
+              "frequency": 0.075472,
+              "wavelength": 13.25,
+              "power": 6835.1436,
+              "density_per_unit": 0.075472
+            },
+            {
+              "rank": 8,
+              "frequency": 0.10427,
+              "wavelength": 9.59,
+              "power": 1447.4218,
+              "density_per_unit": 0.10427
+            },
+            {
+              "rank": 9,
+              "frequency": 0.108242,
+              "wavelength": 9.24,
+              "power": 1043.3334,
+              "density_per_unit": 0.108242
+            },
+            {
+              "rank": 10,
+              "frequency": 0.136048,
+              "wavelength": 7.35,
+              "power": 1015.8117,
+              "density_per_unit": 0.136048
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            5886.2,
+            1656.4
+          ],
+          "p1": [
+            7472.7,
+            1609.4
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.05041,
+              "wavelength": 19.84,
+              "power": 21668.6442,
+              "density_per_unit": 0.05041
+            },
+            {
+              "rank": 2,
+              "frequency": 0.05419,
+              "wavelength": 18.45,
+              "power": 12489.6361,
+              "density_per_unit": 0.05419
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056081,
+              "wavelength": 17.83,
+              "power": 8209.9515,
+              "density_per_unit": 0.056081
+            },
+            {
+              "rank": 4,
+              "frequency": 0.060491,
+              "wavelength": 16.53,
+              "power": 13500.451,
+              "density_per_unit": 0.060491
+            },
+            {
+              "rank": 5,
+              "frequency": 0.069313,
+              "wavelength": 14.43,
+              "power": 9070.7815,
+              "density_per_unit": 0.069313
+            },
+            {
+              "rank": 6,
+              "frequency": 0.072464,
+              "wavelength": 13.8,
+              "power": 7984.2062,
+              "density_per_unit": 0.072464
+            },
+            {
+              "rank": 7,
+              "frequency": 0.080025,
+              "wavelength": 12.5,
+              "power": 2937.4533,
+              "density_per_unit": 0.080025
+            },
+            {
+              "rank": 8,
+              "frequency": 0.087587,
+              "wavelength": 11.42,
+              "power": 4601.2692,
+              "density_per_unit": 0.087587
+            },
+            {
+              "rank": 9,
+              "frequency": 0.091367,
+              "wavelength": 10.94,
+              "power": 6579.0014,
+              "density_per_unit": 0.091367
+            },
+            {
+              "rank": 10,
+              "frequency": 0.097669,
+              "wavelength": 10.24,
+              "power": 3353.7302,
+              "density_per_unit": 0.097669
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            1925.2,
+            2402.7
+          ],
+          "p1": [
+            3052.5,
+            2131.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050906,
+              "wavelength": 19.64,
+              "power": 18454.7479,
+              "density_per_unit": 0.050906
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052632,
+              "wavelength": 19.0,
+              "power": 5575.5351,
+              "density_per_unit": 0.052632
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056946,
+              "wavelength": 17.56,
+              "power": 39352.1587,
+              "density_per_unit": 0.056946
+            },
+            {
+              "rank": 4,
+              "frequency": 0.06126,
+              "wavelength": 16.32,
+              "power": 4620.1366,
+              "density_per_unit": 0.06126
+            },
+            {
+              "rank": 5,
+              "frequency": 0.066437,
+              "wavelength": 15.05,
+              "power": 5520.8147,
+              "density_per_unit": 0.066437
+            },
+            {
+              "rank": 6,
+              "frequency": 0.073339,
+              "wavelength": 13.64,
+              "power": 15046.8761,
+              "density_per_unit": 0.073339
+            },
+            {
+              "rank": 7,
+              "frequency": 0.07679,
+              "wavelength": 13.02,
+              "power": 10339.4206,
+              "density_per_unit": 0.07679
+            },
+            {
+              "rank": 8,
+              "frequency": 0.08887,
+              "wavelength": 11.25,
+              "power": 3884.1099,
+              "density_per_unit": 0.08887
+            },
+            {
+              "rank": 9,
+              "frequency": 0.094909,
+              "wavelength": 10.54,
+              "power": 4206.6018,
+              "density_per_unit": 0.094909
+            },
+            {
+              "rank": 10,
+              "frequency": 0.097498,
+              "wavelength": 10.26,
+              "power": 4222.4993,
+              "density_per_unit": 0.097498
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155519.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            4879.0,
+            544.8
+          ],
+          "p1": [
+            7697.1,
+            513.5
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.0511,
+              "wavelength": 19.57,
+              "power": 33897.6286,
+              "density_per_unit": 0.0511
+            },
+            {
+              "rank": 2,
+              "frequency": 0.05252,
+              "wavelength": 19.04,
+              "power": 43064.8009,
+              "density_per_unit": 0.05252
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053229,
+              "wavelength": 18.79,
+              "power": 44804.9849,
+              "density_per_unit": 0.053229
+            },
+            {
+              "rank": 4,
+              "frequency": 0.056778,
+              "wavelength": 17.61,
+              "power": 126910.945,
+              "density_per_unit": 0.056778
+            },
+            {
+              "rank": 5,
+              "frequency": 0.059617,
+              "wavelength": 16.77,
+              "power": 16703.8699,
+              "density_per_unit": 0.059617
+            },
+            {
+              "rank": 6,
+              "frequency": 0.061036,
+              "wavelength": 16.38,
+              "power": 18354.3074,
+              "density_per_unit": 0.061036
+            },
+            {
+              "rank": 7,
+              "frequency": 0.061746,
+              "wavelength": 16.2,
+              "power": 34583.2891,
+              "density_per_unit": 0.061746
+            },
+            {
+              "rank": 8,
+              "frequency": 0.06494,
+              "wavelength": 15.4,
+              "power": 19475.6443,
+              "density_per_unit": 0.06494
+            },
+            {
+              "rank": 9,
+              "frequency": 0.068488,
+              "wavelength": 14.6,
+              "power": 15592.2696,
+              "density_per_unit": 0.068488
+            },
+            {
+              "rank": 10,
+              "frequency": 0.076295,
+              "wavelength": 13.11,
+              "power": 11267.1292,
+              "density_per_unit": 0.076295
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            103.9,
+            2120.8
+          ],
+          "p1": [
+            1779.1,
+            1071.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050582,
+              "wavelength": 19.77,
+              "power": 10352.3218,
+              "density_per_unit": 0.050582
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051593,
+              "wavelength": 19.38,
+              "power": 9393.9018,
+              "density_per_unit": 0.051593
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053617,
+              "wavelength": 18.65,
+              "power": 9367.1467,
+              "density_per_unit": 0.053617
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057157,
+              "wavelength": 17.5,
+              "power": 8983.3992,
+              "density_per_unit": 0.057157
+            },
+            {
+              "rank": 5,
+              "frequency": 0.059181,
+              "wavelength": 16.9,
+              "power": 12219.1388,
+              "density_per_unit": 0.059181
+            },
+            {
+              "rank": 6,
+              "frequency": 0.060698,
+              "wavelength": 16.47,
+              "power": 5358.1559,
+              "density_per_unit": 0.060698
+            },
+            {
+              "rank": 7,
+              "frequency": 0.062721,
+              "wavelength": 15.94,
+              "power": 8171.5537,
+              "density_per_unit": 0.062721
+            },
+            {
+              "rank": 8,
+              "frequency": 0.064745,
+              "wavelength": 15.45,
+              "power": 2088.7817,
+              "density_per_unit": 0.064745
+            },
+            {
+              "rank": 9,
+              "frequency": 0.076884,
+              "wavelength": 13.01,
+              "power": 2364.4122,
+              "density_per_unit": 0.076884
+            },
+            {
+              "rank": 10,
+              "frequency": 0.094082,
+              "wavelength": 10.63,
+              "power": 3169.4111,
+              "density_per_unit": 0.094082
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2347.9,
+            946.6
+          ],
+          "p1": [
+            4169.3,
+            565.7
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.052123,
+              "wavelength": 19.19,
+              "power": 4942.65,
+              "density_per_unit": 0.052123
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053735,
+              "wavelength": 18.61,
+              "power": 17353.523,
+              "density_per_unit": 0.053735
+            },
+            {
+              "rank": 3,
+              "frequency": 0.055884,
+              "wavelength": 17.89,
+              "power": 10633.5195,
+              "density_per_unit": 0.055884
+            },
+            {
+              "rank": 4,
+              "frequency": 0.061795,
+              "wavelength": 16.18,
+              "power": 7408.9157,
+              "density_per_unit": 0.061795
+            },
+            {
+              "rank": 5,
+              "frequency": 0.063944,
+              "wavelength": 15.64,
+              "power": 6558.8865,
+              "density_per_unit": 0.063944
+            },
+            {
+              "rank": 6,
+              "frequency": 0.065019,
+              "wavelength": 15.38,
+              "power": 6634.4117,
+              "density_per_unit": 0.065019
+            },
+            {
+              "rank": 7,
+              "frequency": 0.06878,
+              "wavelength": 14.54,
+              "power": 5694.7809,
+              "density_per_unit": 0.06878
+            },
+            {
+              "rank": 8,
+              "frequency": 0.071467,
+              "wavelength": 13.99,
+              "power": 6481.071,
+              "density_per_unit": 0.071467
+            },
+            {
+              "rank": 9,
+              "frequency": 0.072542,
+              "wavelength": 13.79,
+              "power": 4836.315,
+              "density_per_unit": 0.072542
+            },
+            {
+              "rank": 10,
+              "frequency": 0.074154,
+              "wavelength": 13.49,
+              "power": 4648.4123,
+              "density_per_unit": 0.074154
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            5510.5,
+            346.5
+          ],
+          "p1": [
+            7895.5,
+            247.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.054043,
+              "wavelength": 18.5,
+              "power": 5650.4269,
+              "density_per_unit": 0.054043
+            },
+            {
+              "rank": 2,
+              "frequency": 0.056137,
+              "wavelength": 17.81,
+              "power": 7084.4968,
+              "density_per_unit": 0.056137
+            },
+            {
+              "rank": 3,
+              "frequency": 0.057813,
+              "wavelength": 17.3,
+              "power": 5577.045,
+              "density_per_unit": 0.057813
+            },
+            {
+              "rank": 4,
+              "frequency": 0.059489,
+              "wavelength": 16.81,
+              "power": 4724.6016,
+              "density_per_unit": 0.059489
+            },
+            {
+              "rank": 5,
+              "frequency": 0.06284,
+              "wavelength": 15.91,
+              "power": 5428.6142,
+              "density_per_unit": 0.06284
+            },
+            {
+              "rank": 6,
+              "frequency": 0.064516,
+              "wavelength": 15.5,
+              "power": 11956.4758,
+              "density_per_unit": 0.064516
+            },
+            {
+              "rank": 7,
+              "frequency": 0.065773,
+              "wavelength": 15.2,
+              "power": 5595.0806,
+              "density_per_unit": 0.065773
+            },
+            {
+              "rank": 8,
+              "frequency": 0.067449,
+              "wavelength": 14.83,
+              "power": 6825.7994,
+              "density_per_unit": 0.067449
+            },
+            {
+              "rank": 9,
+              "frequency": 0.069962,
+              "wavelength": 14.29,
+              "power": 16917.6199,
+              "density_per_unit": 0.069962
+            },
+            {
+              "rank": 10,
+              "frequency": 0.071638,
+              "wavelength": 13.96,
+              "power": 6115.3752,
+              "density_per_unit": 0.071638
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            5338.3,
+            654.4
+          ],
+          "p1": [
+            7603.2,
+            659.6
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051656,
+              "wavelength": 19.36,
+              "power": 15382.5589,
+              "density_per_unit": 0.051656
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052539,
+              "wavelength": 19.03,
+              "power": 18424.5124,
+              "density_per_unit": 0.052539
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053863,
+              "wavelength": 18.57,
+              "power": 48907.3255,
+              "density_per_unit": 0.053863
+            },
+            {
+              "rank": 4,
+              "frequency": 0.054746,
+              "wavelength": 18.27,
+              "power": 21790.1666,
+              "density_per_unit": 0.054746
+            },
+            {
+              "rank": 5,
+              "frequency": 0.055629,
+              "wavelength": 17.98,
+              "power": 53634.3723,
+              "density_per_unit": 0.055629
+            },
+            {
+              "rank": 6,
+              "frequency": 0.056512,
+              "wavelength": 17.7,
+              "power": 35097.9047,
+              "density_per_unit": 0.056512
+            },
+            {
+              "rank": 7,
+              "frequency": 0.060927,
+              "wavelength": 16.41,
+              "power": 11626.9369,
+              "density_per_unit": 0.060927
+            },
+            {
+              "rank": 8,
+              "frequency": 0.062252,
+              "wavelength": 16.06,
+              "power": 10311.8766,
+              "density_per_unit": 0.062252
+            },
+            {
+              "rank": 9,
+              "frequency": 0.067991,
+              "wavelength": 14.71,
+              "power": 20042.2942,
+              "density_per_unit": 0.067991
+            },
+            {
+              "rank": 10,
+              "frequency": 0.072848,
+              "wavelength": 13.73,
+              "power": 39319.6937,
+              "density_per_unit": 0.072848
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2139.2,
+            1061.4
+          ],
+          "p1": [
+            7932.0,
+            356.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051071,
+              "wavelength": 19.58,
+              "power": 108803.103,
+              "density_per_unit": 0.051071
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051414,
+              "wavelength": 19.45,
+              "power": 74771.109,
+              "density_per_unit": 0.051414
+            },
+            {
+              "rank": 3,
+              "frequency": 0.052099,
+              "wavelength": 19.19,
+              "power": 114590.5141,
+              "density_per_unit": 0.052099
+            },
+            {
+              "rank": 4,
+              "frequency": 0.053299,
+              "wavelength": 18.76,
+              "power": 109781.7385,
+              "density_per_unit": 0.053299
+            },
+            {
+              "rank": 5,
+              "frequency": 0.054327,
+              "wavelength": 18.41,
+              "power": 131411.255,
+              "density_per_unit": 0.054327
+            },
+            {
+              "rank": 6,
+              "frequency": 0.056898,
+              "wavelength": 17.58,
+              "power": 87003.4648,
+              "density_per_unit": 0.056898
+            },
+            {
+              "rank": 7,
+              "frequency": 0.057241,
+              "wavelength": 17.47,
+              "power": 80397.0422,
+              "density_per_unit": 0.057241
+            },
+            {
+              "rank": 8,
+              "frequency": 0.068895,
+              "wavelength": 14.51,
+              "power": 81568.8385,
+              "density_per_unit": 0.068895
+            },
+            {
+              "rank": 9,
+              "frequency": 0.070951,
+              "wavelength": 14.09,
+              "power": 89104.5236,
+              "density_per_unit": 0.070951
+            },
+            {
+              "rank": 10,
+              "frequency": 0.072151,
+              "wavelength": 13.86,
+              "power": 116389.1589,
+              "density_per_unit": 0.072151
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2254.0,
+            873.6
+          ],
+          "p1": [
+            6486.4,
+            424.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.052162,
+              "wavelength": 19.17,
+              "power": 147781.4173,
+              "density_per_unit": 0.052162
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053571,
+              "wavelength": 18.67,
+              "power": 160040.5835,
+              "density_per_unit": 0.053571
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056391,
+              "wavelength": 17.73,
+              "power": 191094.3186,
+              "density_per_unit": 0.056391
+            },
+            {
+              "rank": 4,
+              "frequency": 0.058506,
+              "wavelength": 17.09,
+              "power": 49507.1845,
+              "density_per_unit": 0.058506
+            },
+            {
+              "rank": 5,
+              "frequency": 0.059915,
+              "wavelength": 16.69,
+              "power": 108178.692,
+              "density_per_unit": 0.059915
+            },
+            {
+              "rank": 6,
+              "frequency": 0.06109,
+              "wavelength": 16.37,
+              "power": 52279.2826,
+              "density_per_unit": 0.06109
+            },
+            {
+              "rank": 7,
+              "frequency": 0.06391,
+              "wavelength": 15.65,
+              "power": 160152.0478,
+              "density_per_unit": 0.06391
+            },
+            {
+              "rank": 8,
+              "frequency": 0.067199,
+              "wavelength": 14.88,
+              "power": 58476.9221,
+              "density_per_unit": 0.067199
+            },
+            {
+              "rank": 9,
+              "frequency": 0.069784,
+              "wavelength": 14.33,
+              "power": 60006.4418,
+              "density_per_unit": 0.069784
+            },
+            {
+              "rank": 10,
+              "frequency": 0.073308,
+              "wavelength": 13.64,
+              "power": 54132.1817,
+              "density_per_unit": 0.073308
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            109.1,
+            2214.8
+          ],
+          "p1": [
+            1732.1,
+            1369.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050273,
+              "wavelength": 19.89,
+              "power": 7016.9743,
+              "density_per_unit": 0.050273
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052459,
+              "wavelength": 19.06,
+              "power": 3335.8235,
+              "density_per_unit": 0.052459
+            },
+            {
+              "rank": 3,
+              "frequency": 0.054098,
+              "wavelength": 18.48,
+              "power": 3636.9755,
+              "density_per_unit": 0.054098
+            },
+            {
+              "rank": 4,
+              "frequency": 0.056831,
+              "wavelength": 17.6,
+              "power": 4584.9523,
+              "density_per_unit": 0.056831
+            },
+            {
+              "rank": 5,
+              "frequency": 0.065574,
+              "wavelength": 15.25,
+              "power": 1686.0576,
+              "density_per_unit": 0.065574
+            },
+            {
+              "rank": 6,
+              "frequency": 0.069945,
+              "wavelength": 14.3,
+              "power": 4543.839,
+              "density_per_unit": 0.069945
+            },
+            {
+              "rank": 7,
+              "frequency": 0.072678,
+              "wavelength": 13.76,
+              "power": 3001.2918,
+              "density_per_unit": 0.072678
+            },
+            {
+              "rank": 8,
+              "frequency": 0.086339,
+              "wavelength": 11.58,
+              "power": 1677.2244,
+              "density_per_unit": 0.086339
+            },
+            {
+              "rank": 9,
+              "frequency": 0.105464,
+              "wavelength": 9.48,
+              "power": 2358.5686,
+              "density_per_unit": 0.105464
+            },
+            {
+              "rank": 10,
+              "frequency": 0.112568,
+              "wavelength": 8.88,
+              "power": 1514.0873,
+              "density_per_unit": 0.112568
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            907.6,
+            1588.5
+          ],
+          "p1": [
+            1888.7,
+            941.4
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051915,
+              "wavelength": 19.26,
+              "power": 23989.8727,
+              "density_per_unit": 0.051915
+            },
+            {
+              "rank": 2,
+              "frequency": 0.057021,
+              "wavelength": 17.54,
+              "power": 11710.7572,
+              "density_per_unit": 0.057021
+            },
+            {
+              "rank": 3,
+              "frequency": 0.060426,
+              "wavelength": 16.55,
+              "power": 2990.0863,
+              "density_per_unit": 0.060426
+            },
+            {
+              "rank": 4,
+              "frequency": 0.062979,
+              "wavelength": 15.88,
+              "power": 2811.1305,
+              "density_per_unit": 0.062979
+            },
+            {
+              "rank": 5,
+              "frequency": 0.066383,
+              "wavelength": 15.06,
+              "power": 2992.3826,
+              "density_per_unit": 0.066383
+            },
+            {
+              "rank": 6,
+              "frequency": 0.069787,
+              "wavelength": 14.33,
+              "power": 4087.2228,
+              "density_per_unit": 0.069787
+            },
+            {
+              "rank": 7,
+              "frequency": 0.074043,
+              "wavelength": 13.51,
+              "power": 7843.9133,
+              "density_per_unit": 0.074043
+            },
+            {
+              "rank": 8,
+              "frequency": 0.077447,
+              "wavelength": 12.91,
+              "power": 4110.4321,
+              "density_per_unit": 0.077447
+            },
+            {
+              "rank": 9,
+              "frequency": 0.085106,
+              "wavelength": 11.75,
+              "power": 3824.0141,
+              "density_per_unit": 0.085106
+            },
+            {
+              "rank": 10,
+              "frequency": 0.104681,
+              "wavelength": 9.55,
+              "power": 2098.8172,
+              "density_per_unit": 0.104681
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            5343.5,
+            842.3
+          ],
+          "p1": [
+            7780.6,
+            591.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050204,
+              "wavelength": 19.92,
+              "power": 38880.4414,
+              "density_per_unit": 0.050204
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052245,
+              "wavelength": 19.14,
+              "power": 29073.7638,
+              "density_per_unit": 0.052245
+            },
+            {
+              "rank": 3,
+              "frequency": 0.055102,
+              "wavelength": 18.15,
+              "power": 38287.031,
+              "density_per_unit": 0.055102
+            },
+            {
+              "rank": 4,
+              "frequency": 0.059184,
+              "wavelength": 16.9,
+              "power": 19059.1777,
+              "density_per_unit": 0.059184
+            },
+            {
+              "rank": 5,
+              "frequency": 0.06,
+              "wavelength": 16.67,
+              "power": 11955.3504,
+              "density_per_unit": 0.06
+            },
+            {
+              "rank": 6,
+              "frequency": 0.061224,
+              "wavelength": 16.33,
+              "power": 18533.368,
+              "density_per_unit": 0.061224
+            },
+            {
+              "rank": 7,
+              "frequency": 0.062449,
+              "wavelength": 16.01,
+              "power": 10166.1919,
+              "density_per_unit": 0.062449
+            },
+            {
+              "rank": 8,
+              "frequency": 0.063673,
+              "wavelength": 15.71,
+              "power": 14381.518,
+              "density_per_unit": 0.063673
+            },
+            {
+              "rank": 9,
+              "frequency": 0.06898,
+              "wavelength": 14.5,
+              "power": 20595.362,
+              "density_per_unit": 0.06898
+            },
+            {
+              "rank": 10,
+              "frequency": 0.082041,
+              "wavelength": 12.19,
+              "power": 8724.1245,
+              "density_per_unit": 0.082041
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155530.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            411.8,
+            1948.6
+          ],
+          "p1": [
+            2280.1,
+            983.2
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050404,
+              "wavelength": 19.84,
+              "power": 12384.062,
+              "density_per_unit": 0.050404
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052306,
+              "wavelength": 19.12,
+              "power": 3989.3794,
+              "density_per_unit": 0.052306
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053733,
+              "wavelength": 18.61,
+              "power": 4014.8412,
+              "density_per_unit": 0.053733
+            },
+            {
+              "rank": 4,
+              "frequency": 0.05611,
+              "wavelength": 17.82,
+              "power": 19461.4874,
+              "density_per_unit": 0.05611
+            },
+            {
+              "rank": 5,
+              "frequency": 0.060865,
+              "wavelength": 16.43,
+              "power": 11106.2102,
+              "density_per_unit": 0.060865
+            },
+            {
+              "rank": 6,
+              "frequency": 0.063243,
+              "wavelength": 15.81,
+              "power": 4288.2681,
+              "density_per_unit": 0.063243
+            },
+            {
+              "rank": 7,
+              "frequency": 0.065621,
+              "wavelength": 15.24,
+              "power": 18986.8754,
+              "density_per_unit": 0.065621
+            },
+            {
+              "rank": 8,
+              "frequency": 0.070376,
+              "wavelength": 14.21,
+              "power": 11224.7559,
+              "density_per_unit": 0.070376
+            },
+            {
+              "rank": 9,
+              "frequency": 0.07418,
+              "wavelength": 13.48,
+              "power": 3669.0708,
+              "density_per_unit": 0.07418
+            },
+            {
+              "rank": 10,
+              "frequency": 0.07941,
+              "wavelength": 12.59,
+              "power": 2786.9954,
+              "density_per_unit": 0.07941
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            4560.7,
+            315.2
+          ],
+          "p1": [
+            6152.4,
+            210.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051411,
+              "wavelength": 19.45,
+              "power": 8134.6661,
+              "density_per_unit": 0.051411
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052665,
+              "wavelength": 18.99,
+              "power": 23805.4458,
+              "density_per_unit": 0.052665
+            },
+            {
+              "rank": 3,
+              "frequency": 0.055172,
+              "wavelength": 18.12,
+              "power": 17449.294,
+              "density_per_unit": 0.055172
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057053,
+              "wavelength": 17.53,
+              "power": 6654.1772,
+              "density_per_unit": 0.057053
+            },
+            {
+              "rank": 5,
+              "frequency": 0.058934,
+              "wavelength": 16.97,
+              "power": 21851.6092,
+              "density_per_unit": 0.058934
+            },
+            {
+              "rank": 6,
+              "frequency": 0.060188,
+              "wavelength": 16.61,
+              "power": 9987.1027,
+              "density_per_unit": 0.060188
+            },
+            {
+              "rank": 7,
+              "frequency": 0.064577,
+              "wavelength": 15.49,
+              "power": 8245.7615,
+              "density_per_unit": 0.064577
+            },
+            {
+              "rank": 8,
+              "frequency": 0.066458,
+              "wavelength": 15.05,
+              "power": 3286.7467,
+              "density_per_unit": 0.066458
+            },
+            {
+              "rank": 9,
+              "frequency": 0.068966,
+              "wavelength": 14.5,
+              "power": 4500.5135,
+              "density_per_unit": 0.068966
+            },
+            {
+              "rank": 10,
+              "frequency": 0.082759,
+              "wavelength": 12.08,
+              "power": 4868.7647,
+              "density_per_unit": 0.082759
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            4571.1,
+            696.1
+          ],
+          "p1": [
+            6110.6,
+            492.6
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050225,
+              "wavelength": 19.91,
+              "power": 3186.0476,
+              "density_per_unit": 0.050225
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052157,
+              "wavelength": 19.17,
+              "power": 1721.069,
+              "density_per_unit": 0.052157
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056665,
+              "wavelength": 17.65,
+              "power": 4788.4904,
+              "density_per_unit": 0.056665
+            },
+            {
+              "rank": 4,
+              "frequency": 0.061172,
+              "wavelength": 16.35,
+              "power": 7164.5435,
+              "density_per_unit": 0.061172
+            },
+            {
+              "rank": 5,
+              "frequency": 0.064392,
+              "wavelength": 15.53,
+              "power": 3179.9351,
+              "density_per_unit": 0.064392
+            },
+            {
+              "rank": 6,
+              "frequency": 0.066967,
+              "wavelength": 14.93,
+              "power": 1981.4273,
+              "density_per_unit": 0.066967
+            },
+            {
+              "rank": 7,
+              "frequency": 0.072762,
+              "wavelength": 13.74,
+              "power": 1723.0228,
+              "density_per_unit": 0.072762
+            },
+            {
+              "rank": 8,
+              "frequency": 0.074694,
+              "wavelength": 13.39,
+              "power": 3192.2489,
+              "density_per_unit": 0.074694
+            },
+            {
+              "rank": 9,
+              "frequency": 0.077914,
+              "wavelength": 12.83,
+              "power": 1536.9749,
+              "density_per_unit": 0.077914
+            },
+            {
+              "rank": 10,
+              "frequency": 0.082421,
+              "wavelength": 12.13,
+              "power": 2840.3627,
+              "density_per_unit": 0.082421
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            6961.3,
+            320.4
+          ],
+          "p1": [
+            7978.9,
+            414.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050881,
+              "wavelength": 19.65,
+              "power": 1641.2755,
+              "density_per_unit": 0.050881
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053816,
+              "wavelength": 18.58,
+              "power": 5996.3401,
+              "density_per_unit": 0.053816
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056751,
+              "wavelength": 17.62,
+              "power": 6240.9043,
+              "density_per_unit": 0.056751
+            },
+            {
+              "rank": 4,
+              "frequency": 0.059687,
+              "wavelength": 16.75,
+              "power": 816.5236,
+              "density_per_unit": 0.059687
+            },
+            {
+              "rank": 5,
+              "frequency": 0.064579,
+              "wavelength": 15.48,
+              "power": 5404.7625,
+              "density_per_unit": 0.064579
+            },
+            {
+              "rank": 6,
+              "frequency": 0.069472,
+              "wavelength": 14.39,
+              "power": 1895.3487,
+              "density_per_unit": 0.069472
+            },
+            {
+              "rank": 7,
+              "frequency": 0.075342,
+              "wavelength": 13.27,
+              "power": 934.0152,
+              "density_per_unit": 0.075342
+            },
+            {
+              "rank": 8,
+              "frequency": 0.078278,
+              "wavelength": 12.78,
+              "power": 2831.6064,
+              "density_per_unit": 0.078278
+            },
+            {
+              "rank": 9,
+              "frequency": 0.082192,
+              "wavelength": 12.17,
+              "power": 1219.217,
+              "density_per_unit": 0.082192
+            },
+            {
+              "rank": 10,
+              "frequency": 0.136986,
+              "wavelength": 7.3,
+              "power": 599.0347,
+              "density_per_unit": 0.136986
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2468.0,
+            899.7
+          ],
+          "p1": [
+            3897.9,
+            523.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050068,
+              "wavelength": 19.97,
+              "power": 56748.5379,
+              "density_per_unit": 0.050068
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052774,
+              "wavelength": 18.95,
+              "power": 34817.895,
+              "density_per_unit": 0.052774
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056157,
+              "wavelength": 17.81,
+              "power": 18232.7545,
+              "density_per_unit": 0.056157
+            },
+            {
+              "rank": 4,
+              "frequency": 0.058863,
+              "wavelength": 16.99,
+              "power": 11798.1198,
+              "density_per_unit": 0.058863
+            },
+            {
+              "rank": 5,
+              "frequency": 0.060893,
+              "wavelength": 16.42,
+              "power": 12733.5946,
+              "density_per_unit": 0.060893
+            },
+            {
+              "rank": 6,
+              "frequency": 0.067659,
+              "wavelength": 14.78,
+              "power": 6772.5229,
+              "density_per_unit": 0.067659
+            },
+            {
+              "rank": 7,
+              "frequency": 0.071719,
+              "wavelength": 13.94,
+              "power": 6354.7571,
+              "density_per_unit": 0.071719
+            },
+            {
+              "rank": 8,
+              "frequency": 0.073072,
+              "wavelength": 13.69,
+              "power": 6018.169,
+              "density_per_unit": 0.073072
+            },
+            {
+              "rank": 9,
+              "frequency": 0.074425,
+              "wavelength": 13.44,
+              "power": 6051.4615,
+              "density_per_unit": 0.074425
+            },
+            {
+              "rank": 10,
+              "frequency": 0.077131,
+              "wavelength": 12.96,
+              "power": 10547.8276,
+              "density_per_unit": 0.077131
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            516.2,
+            2011.3
+          ],
+          "p1": [
+            2347.9,
+            1144.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050839,
+              "wavelength": 19.67,
+              "power": 3435.9293,
+              "density_per_unit": 0.050839
+            },
+            {
+              "rank": 2,
+              "frequency": 0.054294,
+              "wavelength": 18.42,
+              "power": 9080.7872,
+              "density_per_unit": 0.054294
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056762,
+              "wavelength": 17.62,
+              "power": 2324.0341,
+              "density_per_unit": 0.056762
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057749,
+              "wavelength": 17.32,
+              "power": 9396.8466,
+              "density_per_unit": 0.057749
+            },
+            {
+              "rank": 5,
+              "frequency": 0.060217,
+              "wavelength": 16.61,
+              "power": 5226.0917,
+              "density_per_unit": 0.060217
+            },
+            {
+              "rank": 6,
+              "frequency": 0.063179,
+              "wavelength": 15.83,
+              "power": 4338.7478,
+              "density_per_unit": 0.063179
+            },
+            {
+              "rank": 7,
+              "frequency": 0.067127,
+              "wavelength": 14.9,
+              "power": 3395.2443,
+              "density_per_unit": 0.067127
+            },
+            {
+              "rank": 8,
+              "frequency": 0.068115,
+              "wavelength": 14.68,
+              "power": 2448.7328,
+              "density_per_unit": 0.068115
+            },
+            {
+              "rank": 9,
+              "frequency": 0.070582,
+              "wavelength": 14.17,
+              "power": 1845.7565,
+              "density_per_unit": 0.070582
+            },
+            {
+              "rank": 10,
+              "frequency": 0.090326,
+              "wavelength": 11.07,
+              "power": 2662.9521,
+              "density_per_unit": 0.090326
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            3798.7,
+            753.5
+          ],
+          "p1": [
+            5750.5,
+            398.7
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051411,
+              "wavelength": 19.45,
+              "power": 30316.3988,
+              "density_per_unit": 0.051411
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053931,
+              "wavelength": 18.54,
+              "power": 21560.6362,
+              "density_per_unit": 0.053931
+            },
+            {
+              "rank": 3,
+              "frequency": 0.059476,
+              "wavelength": 16.81,
+              "power": 24657.1524,
+              "density_per_unit": 0.059476
+            },
+            {
+              "rank": 4,
+              "frequency": 0.061996,
+              "wavelength": 16.13,
+              "power": 32224.1395,
+              "density_per_unit": 0.061996
+            },
+            {
+              "rank": 5,
+              "frequency": 0.063004,
+              "wavelength": 15.87,
+              "power": 14660.7119,
+              "density_per_unit": 0.063004
+            },
+            {
+              "rank": 6,
+              "frequency": 0.06502,
+              "wavelength": 15.38,
+              "power": 20285.96,
+              "density_per_unit": 0.06502
+            },
+            {
+              "rank": 7,
+              "frequency": 0.066028,
+              "wavelength": 15.15,
+              "power": 11465.8316,
+              "density_per_unit": 0.066028
+            },
+            {
+              "rank": 8,
+              "frequency": 0.067036,
+              "wavelength": 14.92,
+              "power": 24567.5236,
+              "density_per_unit": 0.067036
+            },
+            {
+              "rank": 9,
+              "frequency": 0.069052,
+              "wavelength": 14.48,
+              "power": 12533.8685,
+              "density_per_unit": 0.069052
+            },
+            {
+              "rank": 10,
+              "frequency": 0.070565,
+              "wavelength": 14.17,
+              "power": 12545.9729,
+              "density_per_unit": 0.070565
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            4539.8,
+            330.8
+          ],
+          "p1": [
+            6961.3,
+            221.2
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051155,
+              "wavelength": 19.55,
+              "power": 47225.81,
+              "density_per_unit": 0.051155
+            },
+            {
+              "rank": 2,
+              "frequency": 0.05198,
+              "wavelength": 19.24,
+              "power": 129880.5878,
+              "density_per_unit": 0.05198
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053218,
+              "wavelength": 18.79,
+              "power": 140399.8243,
+              "density_per_unit": 0.053218
+            },
+            {
+              "rank": 4,
+              "frequency": 0.055281,
+              "wavelength": 18.09,
+              "power": 41063.3502,
+              "density_per_unit": 0.055281
+            },
+            {
+              "rank": 5,
+              "frequency": 0.056518,
+              "wavelength": 17.69,
+              "power": 86983.6681,
+              "density_per_unit": 0.056518
+            },
+            {
+              "rank": 6,
+              "frequency": 0.057343,
+              "wavelength": 17.44,
+              "power": 41786.0241,
+              "density_per_unit": 0.057343
+            },
+            {
+              "rank": 7,
+              "frequency": 0.058581,
+              "wavelength": 17.07,
+              "power": 69784.2968,
+              "density_per_unit": 0.058581
+            },
+            {
+              "rank": 8,
+              "frequency": 0.061881,
+              "wavelength": 16.16,
+              "power": 101023.7992,
+              "density_per_unit": 0.061881
+            },
+            {
+              "rank": 9,
+              "frequency": 0.067657,
+              "wavelength": 14.78,
+              "power": 56925.7814,
+              "density_per_unit": 0.067657
+            },
+            {
+              "rank": 10,
+              "frequency": 0.070545,
+              "wavelength": 14.18,
+              "power": 37417.6104,
+              "density_per_unit": 0.070545
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            4576.3,
+            555.2
+          ],
+          "p1": [
+            7733.7,
+            330.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050869,
+              "wavelength": 19.66,
+              "power": 217321.5114,
+              "density_per_unit": 0.050869
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052449,
+              "wavelength": 19.07,
+              "power": 33067.2725,
+              "density_per_unit": 0.052449
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053081,
+              "wavelength": 18.84,
+              "power": 37821.3146,
+              "density_per_unit": 0.053081
+            },
+            {
+              "rank": 4,
+              "frequency": 0.054028,
+              "wavelength": 18.51,
+              "power": 40565.4115,
+              "density_per_unit": 0.054028
+            },
+            {
+              "rank": 5,
+              "frequency": 0.055608,
+              "wavelength": 17.98,
+              "power": 58870.4302,
+              "density_per_unit": 0.055608
+            },
+            {
+              "rank": 6,
+              "frequency": 0.057188,
+              "wavelength": 17.49,
+              "power": 66735.5292,
+              "density_per_unit": 0.057188
+            },
+            {
+              "rank": 7,
+              "frequency": 0.058768,
+              "wavelength": 17.02,
+              "power": 32947.3658,
+              "density_per_unit": 0.058768
+            },
+            {
+              "rank": 8,
+              "frequency": 0.060348,
+              "wavelength": 16.57,
+              "power": 56818.5015,
+              "density_per_unit": 0.060348
+            },
+            {
+              "rank": 9,
+              "frequency": 0.061927,
+              "wavelength": 16.15,
+              "power": 40059.42,
+              "density_per_unit": 0.061927
+            },
+            {
+              "rank": 10,
+              "frequency": 0.065403,
+              "wavelength": 15.29,
+              "power": 45630.1046,
+              "density_per_unit": 0.065403
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            4633.7,
+            784.8
+          ],
+          "p1": [
+            7712.8,
+            597.0
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050567,
+              "wavelength": 19.78,
+              "power": 18087.4457,
+              "density_per_unit": 0.050567
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051216,
+              "wavelength": 19.53,
+              "power": 32845.66,
+              "density_per_unit": 0.051216
+            },
+            {
+              "rank": 3,
+              "frequency": 0.052836,
+              "wavelength": 18.93,
+              "power": 8455.0703,
+              "density_per_unit": 0.052836
+            },
+            {
+              "rank": 4,
+              "frequency": 0.054133,
+              "wavelength": 18.47,
+              "power": 6889.5725,
+              "density_per_unit": 0.054133
+            },
+            {
+              "rank": 5,
+              "frequency": 0.056726,
+              "wavelength": 17.63,
+              "power": 9975.4134,
+              "density_per_unit": 0.056726
+            },
+            {
+              "rank": 6,
+              "frequency": 0.057699,
+              "wavelength": 17.33,
+              "power": 7456.6918,
+              "density_per_unit": 0.057699
+            },
+            {
+              "rank": 7,
+              "frequency": 0.059643,
+              "wavelength": 16.77,
+              "power": 9429.2775,
+              "density_per_unit": 0.059643
+            },
+            {
+              "rank": 8,
+              "frequency": 0.060616,
+              "wavelength": 16.5,
+              "power": 7175.3191,
+              "density_per_unit": 0.060616
+            },
+            {
+              "rank": 9,
+              "frequency": 0.06872,
+              "wavelength": 14.55,
+              "power": 12681.2401,
+              "density_per_unit": 0.06872
+            },
+            {
+              "rank": 10,
+              "frequency": 0.072285,
+              "wavelength": 13.83,
+              "power": 7380.1754,
+              "density_per_unit": 0.072285
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            72.6,
+            1411.1
+          ],
+          "p1": [
+            3971.0,
+            466.5
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050611,
+              "wavelength": 19.76,
+              "power": 24716.7426,
+              "density_per_unit": 0.050611
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051359,
+              "wavelength": 19.47,
+              "power": 26960.6025,
+              "density_per_unit": 0.051359
+            },
+            {
+              "rank": 3,
+              "frequency": 0.051857,
+              "wavelength": 19.28,
+              "power": 22861.6321,
+              "density_per_unit": 0.051857
+            },
+            {
+              "rank": 4,
+              "frequency": 0.052855,
+              "wavelength": 18.92,
+              "power": 16439.2652,
+              "density_per_unit": 0.052855
+            },
+            {
+              "rank": 5,
+              "frequency": 0.053603,
+              "wavelength": 18.66,
+              "power": 28273.7076,
+              "density_per_unit": 0.053603
+            },
+            {
+              "rank": 6,
+              "frequency": 0.059586,
+              "wavelength": 16.78,
+              "power": 27992.895,
+              "density_per_unit": 0.059586
+            },
+            {
+              "rank": 7,
+              "frequency": 0.060583,
+              "wavelength": 16.51,
+              "power": 19370.2325,
+              "density_per_unit": 0.060583
+            },
+            {
+              "rank": 8,
+              "frequency": 0.061331,
+              "wavelength": 16.3,
+              "power": 17382.6939,
+              "density_per_unit": 0.061331
+            },
+            {
+              "rank": 9,
+              "frequency": 0.063326,
+              "wavelength": 15.79,
+              "power": 21900.9405,
+              "density_per_unit": 0.063326
+            },
+            {
+              "rank": 10,
+              "frequency": 0.071803,
+              "wavelength": 13.93,
+              "power": 21187.8746,
+              "density_per_unit": 0.071803
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            109.1,
+            1719.0
+          ],
+          "p1": [
+            3678.7,
+            675.3
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050013,
+              "wavelength": 19.99,
+              "power": 62967.529,
+              "density_per_unit": 0.050013
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051089,
+              "wavelength": 19.57,
+              "power": 59550.3021,
+              "density_per_unit": 0.051089
+            },
+            {
+              "rank": 3,
+              "frequency": 0.052165,
+              "wavelength": 19.17,
+              "power": 118843.4921,
+              "density_per_unit": 0.052165
+            },
+            {
+              "rank": 4,
+              "frequency": 0.05324,
+              "wavelength": 18.78,
+              "power": 54140.2367,
+              "density_per_unit": 0.05324
+            },
+            {
+              "rank": 5,
+              "frequency": 0.053778,
+              "wavelength": 18.6,
+              "power": 89904.1695,
+              "density_per_unit": 0.053778
+            },
+            {
+              "rank": 6,
+              "frequency": 0.054853,
+              "wavelength": 18.23,
+              "power": 35750.1615,
+              "density_per_unit": 0.054853
+            },
+            {
+              "rank": 7,
+              "frequency": 0.05566,
+              "wavelength": 17.97,
+              "power": 39975.3841,
+              "density_per_unit": 0.05566
+            },
+            {
+              "rank": 8,
+              "frequency": 0.058349,
+              "wavelength": 17.14,
+              "power": 39480.1097,
+              "density_per_unit": 0.058349
+            },
+            {
+              "rank": 9,
+              "frequency": 0.062382,
+              "wavelength": 16.03,
+              "power": 31995.1648,
+              "density_per_unit": 0.062382
+            },
+            {
+              "rank": 10,
+              "frequency": 0.069642,
+              "wavelength": 14.36,
+              "power": 67234.0391,
+              "density_per_unit": 0.069642
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            192.6,
+            1985.2
+          ],
+          "p1": [
+            3558.7,
+            727.4
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050097,
+              "wavelength": 19.96,
+              "power": 13470.4259,
+              "density_per_unit": 0.050097
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051489,
+              "wavelength": 19.42,
+              "power": 35703.6395,
+              "density_per_unit": 0.051489
+            },
+            {
+              "rank": 3,
+              "frequency": 0.053159,
+              "wavelength": 18.81,
+              "power": 14087.4675,
+              "density_per_unit": 0.053159
+            },
+            {
+              "rank": 4,
+              "frequency": 0.053716,
+              "wavelength": 18.62,
+              "power": 18534.2202,
+              "density_per_unit": 0.053716
+            },
+            {
+              "rank": 5,
+              "frequency": 0.054829,
+              "wavelength": 18.24,
+              "power": 23834.4863,
+              "density_per_unit": 0.054829
+            },
+            {
+              "rank": 6,
+              "frequency": 0.056777,
+              "wavelength": 17.61,
+              "power": 32064.2691,
+              "density_per_unit": 0.056777
+            },
+            {
+              "rank": 7,
+              "frequency": 0.059282,
+              "wavelength": 16.87,
+              "power": 30780.8231,
+              "density_per_unit": 0.059282
+            },
+            {
+              "rank": 8,
+              "frequency": 0.068188,
+              "wavelength": 14.67,
+              "power": 10904.9048,
+              "density_per_unit": 0.068188
+            },
+            {
+              "rank": 9,
+              "frequency": 0.070415,
+              "wavelength": 14.2,
+              "power": 10417.7902,
+              "density_per_unit": 0.070415
+            },
+            {
+              "rank": 10,
+              "frequency": 0.07125,
+              "wavelength": 14.04,
+              "power": 11879.9418,
+              "density_per_unit": 0.07125
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155614.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            1617.3,
+            1771.2
+          ],
+          "p1": [
+            4425.0,
+            1045.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050345,
+              "wavelength": 19.86,
+              "power": 5884.5036,
+              "density_per_unit": 0.050345
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051724,
+              "wavelength": 19.33,
+              "power": 9634.4794,
+              "density_per_unit": 0.051724
+            },
+            {
+              "rank": 3,
+              "frequency": 0.052759,
+              "wavelength": 18.95,
+              "power": 13415.1875,
+              "density_per_unit": 0.052759
+            },
+            {
+              "rank": 4,
+              "frequency": 0.053793,
+              "wavelength": 18.59,
+              "power": 11513.2041,
+              "density_per_unit": 0.053793
+            },
+            {
+              "rank": 5,
+              "frequency": 0.054828,
+              "wavelength": 18.24,
+              "power": 6899.6525,
+              "density_per_unit": 0.054828
+            },
+            {
+              "rank": 6,
+              "frequency": 0.055517,
+              "wavelength": 18.01,
+              "power": 7093.6384,
+              "density_per_unit": 0.055517
+            },
+            {
+              "rank": 7,
+              "frequency": 0.057931,
+              "wavelength": 17.26,
+              "power": 6230.9416,
+              "density_per_unit": 0.057931
+            },
+            {
+              "rank": 8,
+              "frequency": 0.06069,
+              "wavelength": 16.48,
+              "power": 8401.8533,
+              "density_per_unit": 0.06069
+            },
+            {
+              "rank": 9,
+              "frequency": 0.068621,
+              "wavelength": 14.57,
+              "power": 7184.9786,
+              "density_per_unit": 0.068621
+            },
+            {
+              "rank": 10,
+              "frequency": 0.077931,
+              "wavelength": 12.83,
+              "power": 6173.4653,
+              "density_per_unit": 0.077931
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            1685.2,
+            1938.2
+          ],
+          "p1": [
+            2400.1,
+            1739.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.053908,
+              "wavelength": 18.55,
+              "power": 2481.3241,
+              "density_per_unit": 0.053908
+            },
+            {
+              "rank": 2,
+              "frequency": 0.060647,
+              "wavelength": 16.49,
+              "power": 682.971,
+              "density_per_unit": 0.060647
+            },
+            {
+              "rank": 3,
+              "frequency": 0.06469,
+              "wavelength": 15.46,
+              "power": 323.0562,
+              "density_per_unit": 0.06469
+            },
+            {
+              "rank": 4,
+              "frequency": 0.068733,
+              "wavelength": 14.55,
+              "power": 252.7275,
+              "density_per_unit": 0.068733
+            },
+            {
+              "rank": 5,
+              "frequency": 0.075472,
+              "wavelength": 13.25,
+              "power": 331.6028,
+              "density_per_unit": 0.075472
+            },
+            {
+              "rank": 6,
+              "frequency": 0.080863,
+              "wavelength": 12.37,
+              "power": 247.5141,
+              "density_per_unit": 0.080863
+            },
+            {
+              "rank": 7,
+              "frequency": 0.092992,
+              "wavelength": 10.75,
+              "power": 157.8479,
+              "density_per_unit": 0.092992
+            },
+            {
+              "rank": 8,
+              "frequency": 0.097035,
+              "wavelength": 10.31,
+              "power": 190.012,
+              "density_per_unit": 0.097035
+            },
+            {
+              "rank": 9,
+              "frequency": 0.106469,
+              "wavelength": 9.39,
+              "power": 129.4071,
+              "density_per_unit": 0.106469
+            },
+            {
+              "rank": 10,
+              "frequency": 0.109164,
+              "wavelength": 9.16,
+              "power": 211.8399,
+              "density_per_unit": 0.109164
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            3349.9,
+            1478.9
+          ],
+          "p1": [
+            4393.7,
+            1144.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050182,
+              "wavelength": 19.93,
+              "power": 1532.8509,
+              "density_per_unit": 0.050182
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052007,
+              "wavelength": 19.23,
+              "power": 1934.6179,
+              "density_per_unit": 0.052007
+            },
+            {
+              "rank": 3,
+              "frequency": 0.058394,
+              "wavelength": 17.12,
+              "power": 1278.4663,
+              "density_per_unit": 0.058394
+            },
+            {
+              "rank": 4,
+              "frequency": 0.060219,
+              "wavelength": 16.61,
+              "power": 999.1556,
+              "density_per_unit": 0.060219
+            },
+            {
+              "rank": 5,
+              "frequency": 0.062956,
+              "wavelength": 15.88,
+              "power": 3606.1544,
+              "density_per_unit": 0.062956
+            },
+            {
+              "rank": 6,
+              "frequency": 0.066606,
+              "wavelength": 15.01,
+              "power": 1192.0921,
+              "density_per_unit": 0.066606
+            },
+            {
+              "rank": 7,
+              "frequency": 0.069343,
+              "wavelength": 14.42,
+              "power": 2587.7004,
+              "density_per_unit": 0.069343
+            },
+            {
+              "rank": 8,
+              "frequency": 0.072993,
+              "wavelength": 13.7,
+              "power": 1219.7506,
+              "density_per_unit": 0.072993
+            },
+            {
+              "rank": 9,
+              "frequency": 0.080292,
+              "wavelength": 12.45,
+              "power": 1231.5974,
+              "density_per_unit": 0.080292
+            },
+            {
+              "rank": 10,
+              "frequency": 0.085766,
+              "wavelength": 11.66,
+              "power": 1216.7106,
+              "density_per_unit": 0.085766
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2775.9,
+            1343.3
+          ],
+          "p1": [
+            4351.9,
+            920.5
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050858,
+              "wavelength": 19.66,
+              "power": 13073.2484,
+              "density_per_unit": 0.050858
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053922,
+              "wavelength": 18.55,
+              "power": 5895.0936,
+              "density_per_unit": 0.053922
+            },
+            {
+              "rank": 3,
+              "frequency": 0.05576,
+              "wavelength": 17.93,
+              "power": 20156.9902,
+              "density_per_unit": 0.05576
+            },
+            {
+              "rank": 4,
+              "frequency": 0.061887,
+              "wavelength": 16.16,
+              "power": 3504.5301,
+              "density_per_unit": 0.061887
+            },
+            {
+              "rank": 5,
+              "frequency": 0.064951,
+              "wavelength": 15.4,
+              "power": 4831.739,
+              "density_per_unit": 0.064951
+            },
+            {
+              "rank": 6,
+              "frequency": 0.066789,
+              "wavelength": 14.97,
+              "power": 5853.3227,
+              "density_per_unit": 0.066789
+            },
+            {
+              "rank": 7,
+              "frequency": 0.073529,
+              "wavelength": 13.6,
+              "power": 2556.4578,
+              "density_per_unit": 0.073529
+            },
+            {
+              "rank": 8,
+              "frequency": 0.075368,
+              "wavelength": 13.27,
+              "power": 2672.0706,
+              "density_per_unit": 0.075368
+            },
+            {
+              "rank": 9,
+              "frequency": 0.081495,
+              "wavelength": 12.27,
+              "power": 3470.0872,
+              "density_per_unit": 0.081495
+            },
+            {
+              "rank": 10,
+              "frequency": 0.091912,
+              "wavelength": 10.88,
+              "power": 2514.9063,
+              "density_per_unit": 0.091912
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            1700.8,
+            1833.8
+          ],
+          "p1": [
+            4612.9,
+            1092.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.05025,
+              "wavelength": 19.9,
+              "power": 7451.2497,
+              "density_per_unit": 0.05025
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052246,
+              "wavelength": 19.14,
+              "power": 19771.5552,
+              "density_per_unit": 0.052246
+            },
+            {
+              "rank": 3,
+              "frequency": 0.055574,
+              "wavelength": 17.99,
+              "power": 6888.9919,
+              "density_per_unit": 0.055574
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057238,
+              "wavelength": 17.47,
+              "power": 6527.8193,
+              "density_per_unit": 0.057238
+            },
+            {
+              "rank": 5,
+              "frequency": 0.057903,
+              "wavelength": 17.27,
+              "power": 6750.732,
+              "density_per_unit": 0.057903
+            },
+            {
+              "rank": 6,
+              "frequency": 0.058902,
+              "wavelength": 16.98,
+              "power": 18195.2285,
+              "density_per_unit": 0.058902
+            },
+            {
+              "rank": 7,
+              "frequency": 0.061231,
+              "wavelength": 16.33,
+              "power": 6507.4616,
+              "density_per_unit": 0.061231
+            },
+            {
+              "rank": 8,
+              "frequency": 0.066556,
+              "wavelength": 15.02,
+              "power": 12555.8996,
+              "density_per_unit": 0.066556
+            },
+            {
+              "rank": 9,
+              "frequency": 0.067887,
+              "wavelength": 14.73,
+              "power": 8750.3739,
+              "density_per_unit": 0.067887
+            },
+            {
+              "rank": 10,
+              "frequency": 0.07188,
+              "wavelength": 13.91,
+              "power": 7541.6648,
+              "density_per_unit": 0.07188
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2828.1,
+            1270.2
+          ],
+          "p1": [
+            4242.3,
+            957.1
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.05383,
+              "wavelength": 18.58,
+              "power": 1569.904,
+              "density_per_unit": 0.05383
+            },
+            {
+              "rank": 2,
+              "frequency": 0.055901,
+              "wavelength": 17.89,
+              "power": 1626.7904,
+              "density_per_unit": 0.055901
+            },
+            {
+              "rank": 3,
+              "frequency": 0.059351,
+              "wavelength": 16.85,
+              "power": 3709.3487,
+              "density_per_unit": 0.059351
+            },
+            {
+              "rank": 4,
+              "frequency": 0.060732,
+              "wavelength": 16.47,
+              "power": 1778.0438,
+              "density_per_unit": 0.060732
+            },
+            {
+              "rank": 5,
+              "frequency": 0.063492,
+              "wavelength": 15.75,
+              "power": 4227.1452,
+              "density_per_unit": 0.063492
+            },
+            {
+              "rank": 6,
+              "frequency": 0.065562,
+              "wavelength": 15.25,
+              "power": 2987.2497,
+              "density_per_unit": 0.065562
+            },
+            {
+              "rank": 7,
+              "frequency": 0.069013,
+              "wavelength": 14.49,
+              "power": 2431.0719,
+              "density_per_unit": 0.069013
+            },
+            {
+              "rank": 8,
+              "frequency": 0.072464,
+              "wavelength": 13.8,
+              "power": 5119.0376,
+              "density_per_unit": 0.072464
+            },
+            {
+              "rank": 9,
+              "frequency": 0.074534,
+              "wavelength": 13.42,
+              "power": 4177.0919,
+              "density_per_unit": 0.074534
+            },
+            {
+              "rank": 10,
+              "frequency": 0.091097,
+              "wavelength": 10.98,
+              "power": 1570.7476,
+              "density_per_unit": 0.091097
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155713.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            2895.9,
+            3034.1
+          ],
+          "p1": [
+            4555.5,
+            3102.0
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051174,
+              "wavelength": 19.54,
+              "power": 128374.4908,
+              "density_per_unit": 0.051174
+            },
+            {
+              "rank": 2,
+              "frequency": 0.05599,
+              "wavelength": 17.86,
+              "power": 36953.8767,
+              "density_per_unit": 0.05599
+            },
+            {
+              "rank": 3,
+              "frequency": 0.059001,
+              "wavelength": 16.95,
+              "power": 56231.9426,
+              "density_per_unit": 0.059001
+            },
+            {
+              "rank": 4,
+              "frequency": 0.060205,
+              "wavelength": 16.61,
+              "power": 179311.637,
+              "density_per_unit": 0.060205
+            },
+            {
+              "rank": 5,
+              "frequency": 0.062011,
+              "wavelength": 16.13,
+              "power": 30367.7328,
+              "density_per_unit": 0.062011
+            },
+            {
+              "rank": 6,
+              "frequency": 0.064419,
+              "wavelength": 15.52,
+              "power": 29917.7605,
+              "density_per_unit": 0.064419
+            },
+            {
+              "rank": 7,
+              "frequency": 0.066827,
+              "wavelength": 14.96,
+              "power": 37154.5976,
+              "density_per_unit": 0.066827
+            },
+            {
+              "rank": 8,
+              "frequency": 0.07646,
+              "wavelength": 13.08,
+              "power": 39493.4295,
+              "density_per_unit": 0.07646
+            },
+            {
+              "rank": 9,
+              "frequency": 0.078868,
+              "wavelength": 12.68,
+              "power": 29224.6376,
+              "density_per_unit": 0.078868
+            },
+            {
+              "rank": 10,
+              "frequency": 0.086695,
+              "wavelength": 11.53,
+              "power": 33937.4685,
+              "density_per_unit": 0.086695
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            5265.2,
+            3055.0
+          ],
+          "p1": [
+            6648.2,
+            2366.1
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.05178,
+              "wavelength": 19.31,
+              "power": 45408.1785,
+              "density_per_unit": 0.05178
+            },
+            {
+              "rank": 2,
+              "frequency": 0.055016,
+              "wavelength": 18.18,
+              "power": 103317.1967,
+              "density_per_unit": 0.055016
+            },
+            {
+              "rank": 3,
+              "frequency": 0.056958,
+              "wavelength": 17.56,
+              "power": 61338.0746,
+              "density_per_unit": 0.056958
+            },
+            {
+              "rank": 4,
+              "frequency": 0.0589,
+              "wavelength": 16.98,
+              "power": 48902.3836,
+              "density_per_unit": 0.0589
+            },
+            {
+              "rank": 5,
+              "frequency": 0.060841,
+              "wavelength": 16.44,
+              "power": 48585.2018,
+              "density_per_unit": 0.060841
+            },
+            {
+              "rank": 6,
+              "frequency": 0.062783,
+              "wavelength": 15.93,
+              "power": 23722.8955,
+              "density_per_unit": 0.062783
+            },
+            {
+              "rank": 7,
+              "frequency": 0.064725,
+              "wavelength": 15.45,
+              "power": 16149.3662,
+              "density_per_unit": 0.064725
+            },
+            {
+              "rank": 8,
+              "frequency": 0.069903,
+              "wavelength": 14.31,
+              "power": 47219.3555,
+              "density_per_unit": 0.069903
+            },
+            {
+              "rank": 9,
+              "frequency": 0.073139,
+              "wavelength": 13.67,
+              "power": 32492.7505,
+              "density_per_unit": 0.073139
+            },
+            {
+              "rank": 10,
+              "frequency": 0.08479,
+              "wavelength": 11.79,
+              "power": 14717.9773,
+              "density_per_unit": 0.08479
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155748.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            1935.7,
+            3467.3
+          ],
+          "p1": [
+            3480.4,
+            2804.5
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050565,
+              "wavelength": 19.78,
+              "power": 22347.6842,
+              "density_per_unit": 0.050565
+            },
+            {
+              "rank": 2,
+              "frequency": 0.05354,
+              "wavelength": 18.68,
+              "power": 13217.9335,
+              "density_per_unit": 0.05354
+            },
+            {
+              "rank": 3,
+              "frequency": 0.058894,
+              "wavelength": 16.98,
+              "power": 14522.0836,
+              "density_per_unit": 0.058894
+            },
+            {
+              "rank": 4,
+              "frequency": 0.060083,
+              "wavelength": 16.64,
+              "power": 11783.1803,
+              "density_per_unit": 0.060083
+            },
+            {
+              "rank": 5,
+              "frequency": 0.064247,
+              "wavelength": 15.56,
+              "power": 18342.0759,
+              "density_per_unit": 0.064247
+            },
+            {
+              "rank": 6,
+              "frequency": 0.067222,
+              "wavelength": 14.88,
+              "power": 11501.2136,
+              "density_per_unit": 0.067222
+            },
+            {
+              "rank": 7,
+              "frequency": 0.070791,
+              "wavelength": 14.13,
+              "power": 28238.632,
+              "density_per_unit": 0.070791
+            },
+            {
+              "rank": 8,
+              "frequency": 0.073766,
+              "wavelength": 13.56,
+              "power": 23597.7384,
+              "density_per_unit": 0.073766
+            },
+            {
+              "rank": 9,
+              "frequency": 0.07674,
+              "wavelength": 13.03,
+              "power": 23817.0121,
+              "density_per_unit": 0.07674
+            },
+            {
+              "rank": 10,
+              "frequency": 0.080904,
+              "wavelength": 12.36,
+              "power": 25773.7794,
+              "density_per_unit": 0.080904
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            933.7,
+            3655.2
+          ],
+          "p1": [
+            3537.8,
+            2574.9
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.051082,
+              "wavelength": 19.58,
+              "power": 10334.432,
+              "density_per_unit": 0.051082
+            },
+            {
+              "rank": 2,
+              "frequency": 0.052501,
+              "wavelength": 19.05,
+              "power": 6080.9867,
+              "density_per_unit": 0.052501
+            },
+            {
+              "rank": 3,
+              "frequency": 0.054275,
+              "wavelength": 18.42,
+              "power": 6266.2822,
+              "density_per_unit": 0.054275
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057467,
+              "wavelength": 17.4,
+              "power": 11434.5137,
+              "density_per_unit": 0.057467
+            },
+            {
+              "rank": 5,
+              "frequency": 0.05995,
+              "wavelength": 16.68,
+              "power": 6755.3425,
+              "density_per_unit": 0.05995
+            },
+            {
+              "rank": 6,
+              "frequency": 0.061369,
+              "wavelength": 16.29,
+              "power": 14726.7713,
+              "density_per_unit": 0.061369
+            },
+            {
+              "rank": 7,
+              "frequency": 0.062433,
+              "wavelength": 16.02,
+              "power": 11641.4593,
+              "density_per_unit": 0.062433
+            },
+            {
+              "rank": 8,
+              "frequency": 0.063852,
+              "wavelength": 15.66,
+              "power": 9308.9706,
+              "density_per_unit": 0.063852
+            },
+            {
+              "rank": 9,
+              "frequency": 0.065626,
+              "wavelength": 15.24,
+              "power": 14104.7728,
+              "density_per_unit": 0.065626
+            },
+            {
+              "rank": 10,
+              "frequency": 0.0674,
+              "wavelength": 14.84,
+              "power": 6918.1099,
+              "density_per_unit": 0.0674
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            2139.2,
+            3529.9
+          ],
+          "p1": [
+            3950.1,
+            2757.5
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050279,
+              "wavelength": 19.89,
+              "power": 33027.2669,
+              "density_per_unit": 0.050279
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053327,
+              "wavelength": 18.75,
+              "power": 72743.5412,
+              "density_per_unit": 0.053327
+            },
+            {
+              "rank": 3,
+              "frequency": 0.05485,
+              "wavelength": 18.23,
+              "power": 33864.2081,
+              "density_per_unit": 0.05485
+            },
+            {
+              "rank": 4,
+              "frequency": 0.05739,
+              "wavelength": 17.42,
+              "power": 19332.4291,
+              "density_per_unit": 0.05739
+            },
+            {
+              "rank": 5,
+              "frequency": 0.065515,
+              "wavelength": 15.26,
+              "power": 42619.4062,
+              "density_per_unit": 0.065515
+            },
+            {
+              "rank": 6,
+              "frequency": 0.067039,
+              "wavelength": 14.92,
+              "power": 45287.4841,
+              "density_per_unit": 0.067039
+            },
+            {
+              "rank": 7,
+              "frequency": 0.068563,
+              "wavelength": 14.59,
+              "power": 29530.8988,
+              "density_per_unit": 0.068563
+            },
+            {
+              "rank": 8,
+              "frequency": 0.072626,
+              "wavelength": 13.77,
+              "power": 13836.5179,
+              "density_per_unit": 0.072626
+            },
+            {
+              "rank": 9,
+              "frequency": 0.079228,
+              "wavelength": 12.62,
+              "power": 14025.6216,
+              "density_per_unit": 0.079228
+            },
+            {
+              "rank": 10,
+              "frequency": 0.084815,
+              "wavelength": 11.79,
+              "power": 21537.0939,
+              "density_per_unit": 0.084815
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    },
+    "20251210_155819.JPG": {
+      "clicks": [],
+      "history": [
+        {
+          "p0": [
+            479.6,
+            3055.0
+          ],
+          "p1": [
+            2546.2,
+            2715.8
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050143,
+              "wavelength": 19.94,
+              "power": 3860.1236,
+              "density_per_unit": 0.050143
+            },
+            {
+              "rank": 2,
+              "frequency": 0.051098,
+              "wavelength": 19.57,
+              "power": 3069.4627,
+              "density_per_unit": 0.051098
+            },
+            {
+              "rank": 3,
+              "frequency": 0.052053,
+              "wavelength": 19.21,
+              "power": 7545.3059,
+              "density_per_unit": 0.052053
+            },
+            {
+              "rank": 4,
+              "frequency": 0.054919,
+              "wavelength": 18.21,
+              "power": 8064.5603,
+              "density_per_unit": 0.054919
+            },
+            {
+              "rank": 5,
+              "frequency": 0.057307,
+              "wavelength": 17.45,
+              "power": 10865.8318,
+              "density_per_unit": 0.057307
+            },
+            {
+              "rank": 6,
+              "frequency": 0.059694,
+              "wavelength": 16.75,
+              "power": 2618.9275,
+              "density_per_unit": 0.059694
+            },
+            {
+              "rank": 7,
+              "frequency": 0.061127,
+              "wavelength": 16.36,
+              "power": 6309.5049,
+              "density_per_unit": 0.061127
+            },
+            {
+              "rank": 8,
+              "frequency": 0.067335,
+              "wavelength": 14.85,
+              "power": 2676.5348,
+              "density_per_unit": 0.067335
+            },
+            {
+              "rank": 9,
+              "frequency": 0.075931,
+              "wavelength": 13.17,
+              "power": 2611.5905,
+              "density_per_unit": 0.075931
+            },
+            {
+              "rank": 10,
+              "frequency": 0.085482,
+              "wavelength": 11.7,
+              "power": 2121.9316,
+              "density_per_unit": 0.085482
+            }
+          ],
+          "unit": "px"
+        },
+        {
+          "p0": [
+            3997.1,
+            2580.1
+          ],
+          "p1": [
+            6950.9,
+            1818.2
+          ],
+          "peaks": [
+            {
+              "rank": 1,
+              "frequency": 0.050164,
+              "wavelength": 19.93,
+              "power": 37338.7393,
+              "density_per_unit": 0.050164
+            },
+            {
+              "rank": 2,
+              "frequency": 0.053115,
+              "wavelength": 18.83,
+              "power": 39732.6052,
+              "density_per_unit": 0.053115
+            },
+            {
+              "rank": 3,
+              "frequency": 0.054754,
+              "wavelength": 18.26,
+              "power": 69763.2938,
+              "density_per_unit": 0.054754
+            },
+            {
+              "rank": 4,
+              "frequency": 0.057377,
+              "wavelength": 17.43,
+              "power": 63703.4646,
+              "density_per_unit": 0.057377
+            },
+            {
+              "rank": 5,
+              "frequency": 0.059344,
+              "wavelength": 16.85,
+              "power": 111000.7819,
+              "density_per_unit": 0.059344
+            },
+            {
+              "rank": 6,
+              "frequency": 0.060656,
+              "wavelength": 16.49,
+              "power": 122978.9798,
+              "density_per_unit": 0.060656
+            },
+            {
+              "rank": 7,
+              "frequency": 0.063934,
+              "wavelength": 15.64,
+              "power": 80551.5635,
+              "density_per_unit": 0.063934
+            },
+            {
+              "rank": 8,
+              "frequency": 0.065902,
+              "wavelength": 15.17,
+              "power": 47204.6272,
+              "density_per_unit": 0.065902
+            },
+            {
+              "rank": 9,
+              "frequency": 0.07541,
+              "wavelength": 13.26,
+              "power": 37162.6158,
+              "density_per_unit": 0.07541
+            },
+            {
+              "rank": 10,
+              "frequency": 0.077705,
+              "wavelength": 12.87,
+              "power": 36768.2756,
+              "density_per_unit": 0.077705
+            }
+          ],
+          "unit": "px"
+        }
+      ]
+    }
+  },
+  "all_results": {
+    "20251210_155950.JPG": [
+      {
+        "p0": [
+          3485.6,
+          2141.7
+        ],
+        "p1": [
+          4873.8,
+          1750.3
+        ],
+        "line_length_px": 1442.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051318,
+            "wavelength": 19.49,
+            "power": 27464.1192,
+            "density_per_unit": 0.051318
+          },
+          {
+            "rank": 2,
+            "frequency": 0.054785,
+            "wavelength": 18.25,
+            "power": 33545.229,
+            "density_per_unit": 0.054785
+          },
+          {
+            "rank": 3,
+            "frequency": 0.057559,
+            "wavelength": 17.37,
+            "power": 18263.5442,
+            "density_per_unit": 0.057559
+          },
+          {
+            "rank": 4,
+            "frequency": 0.058946,
+            "wavelength": 16.96,
+            "power": 18738.7128,
+            "density_per_unit": 0.058946
+          },
+          {
+            "rank": 5,
+            "frequency": 0.062413,
+            "wavelength": 16.02,
+            "power": 58475.3727,
+            "density_per_unit": 0.062413
+          },
+          {
+            "rank": 6,
+            "frequency": 0.064494,
+            "wavelength": 15.51,
+            "power": 14200.6083,
+            "density_per_unit": 0.064494
+          },
+          {
+            "rank": 7,
+            "frequency": 0.066574,
+            "wavelength": 15.02,
+            "power": 24358.7259,
+            "density_per_unit": 0.066574
+          },
+          {
+            "rank": 8,
+            "frequency": 0.070042,
+            "wavelength": 14.28,
+            "power": 7569.1434,
+            "density_per_unit": 0.070042
+          },
+          {
+            "rank": 9,
+            "frequency": 0.072816,
+            "wavelength": 13.73,
+            "power": 24218.1762,
+            "density_per_unit": 0.072816
+          },
+          {
+            "rank": 10,
+            "frequency": 0.079057,
+            "wavelength": 12.65,
+            "power": 9464.7236,
+            "density_per_unit": 0.079057
+          }
+        ]
+      },
+      {
+        "p0": [
+          980.6,
+          2976.7
+        ],
+        "p1": [
+          1826.1,
+          2428.7
+        ],
+        "line_length_px": 1007.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.052632,
+            "wavelength": 19.0,
+            "power": 15845.7451,
+            "density_per_unit": 0.052632
+          },
+          {
+            "rank": 2,
+            "frequency": 0.054618,
+            "wavelength": 18.31,
+            "power": 17988.2307,
+            "density_per_unit": 0.054618
+          },
+          {
+            "rank": 3,
+            "frequency": 0.057597,
+            "wavelength": 17.36,
+            "power": 14379.5541,
+            "density_per_unit": 0.057597
+          },
+          {
+            "rank": 4,
+            "frequency": 0.064548,
+            "wavelength": 15.49,
+            "power": 2596.6163,
+            "density_per_unit": 0.064548
+          },
+          {
+            "rank": 5,
+            "frequency": 0.066534,
+            "wavelength": 15.03,
+            "power": 1576.6058,
+            "density_per_unit": 0.066534
+          },
+          {
+            "rank": 6,
+            "frequency": 0.072493,
+            "wavelength": 13.79,
+            "power": 8781.4986,
+            "density_per_unit": 0.072493
+          },
+          {
+            "rank": 7,
+            "frequency": 0.075472,
+            "wavelength": 13.25,
+            "power": 6835.1436,
+            "density_per_unit": 0.075472
+          },
+          {
+            "rank": 8,
+            "frequency": 0.10427,
+            "wavelength": 9.59,
+            "power": 1447.4218,
+            "density_per_unit": 0.10427
+          },
+          {
+            "rank": 9,
+            "frequency": 0.108242,
+            "wavelength": 9.24,
+            "power": 1043.3334,
+            "density_per_unit": 0.108242
+          },
+          {
+            "rank": 10,
+            "frequency": 0.136048,
+            "wavelength": 7.35,
+            "power": 1015.8117,
+            "density_per_unit": 0.136048
+          }
+        ]
+      },
+      {
+        "p0": [
+          5886.2,
+          1656.4
+        ],
+        "p1": [
+          7472.7,
+          1609.4
+        ],
+        "line_length_px": 1587.2,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.05041,
+            "wavelength": 19.84,
+            "power": 21668.6442,
+            "density_per_unit": 0.05041
+          },
+          {
+            "rank": 2,
+            "frequency": 0.05419,
+            "wavelength": 18.45,
+            "power": 12489.6361,
+            "density_per_unit": 0.05419
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056081,
+            "wavelength": 17.83,
+            "power": 8209.9515,
+            "density_per_unit": 0.056081
+          },
+          {
+            "rank": 4,
+            "frequency": 0.060491,
+            "wavelength": 16.53,
+            "power": 13500.451,
+            "density_per_unit": 0.060491
+          },
+          {
+            "rank": 5,
+            "frequency": 0.069313,
+            "wavelength": 14.43,
+            "power": 9070.7815,
+            "density_per_unit": 0.069313
+          },
+          {
+            "rank": 6,
+            "frequency": 0.072464,
+            "wavelength": 13.8,
+            "power": 7984.2062,
+            "density_per_unit": 0.072464
+          },
+          {
+            "rank": 7,
+            "frequency": 0.080025,
+            "wavelength": 12.5,
+            "power": 2937.4533,
+            "density_per_unit": 0.080025
+          },
+          {
+            "rank": 8,
+            "frequency": 0.087587,
+            "wavelength": 11.42,
+            "power": 4601.2692,
+            "density_per_unit": 0.087587
+          },
+          {
+            "rank": 9,
+            "frequency": 0.091367,
+            "wavelength": 10.94,
+            "power": 6579.0014,
+            "density_per_unit": 0.091367
+          },
+          {
+            "rank": 10,
+            "frequency": 0.097669,
+            "wavelength": 10.24,
+            "power": 3353.7302,
+            "density_per_unit": 0.097669
+          }
+        ]
+      },
+      {
+        "p0": [
+          1925.2,
+          2402.7
+        ],
+        "p1": [
+          3052.5,
+          2131.3
+        ],
+        "line_length_px": 1159.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050906,
+            "wavelength": 19.64,
+            "power": 18454.7479,
+            "density_per_unit": 0.050906
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052632,
+            "wavelength": 19.0,
+            "power": 5575.5351,
+            "density_per_unit": 0.052632
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056946,
+            "wavelength": 17.56,
+            "power": 39352.1587,
+            "density_per_unit": 0.056946
+          },
+          {
+            "rank": 4,
+            "frequency": 0.06126,
+            "wavelength": 16.32,
+            "power": 4620.1366,
+            "density_per_unit": 0.06126
+          },
+          {
+            "rank": 5,
+            "frequency": 0.066437,
+            "wavelength": 15.05,
+            "power": 5520.8147,
+            "density_per_unit": 0.066437
+          },
+          {
+            "rank": 6,
+            "frequency": 0.073339,
+            "wavelength": 13.64,
+            "power": 15046.8761,
+            "density_per_unit": 0.073339
+          },
+          {
+            "rank": 7,
+            "frequency": 0.07679,
+            "wavelength": 13.02,
+            "power": 10339.4206,
+            "density_per_unit": 0.07679
+          },
+          {
+            "rank": 8,
+            "frequency": 0.08887,
+            "wavelength": 11.25,
+            "power": 3884.1099,
+            "density_per_unit": 0.08887
+          },
+          {
+            "rank": 9,
+            "frequency": 0.094909,
+            "wavelength": 10.54,
+            "power": 4206.6018,
+            "density_per_unit": 0.094909
+          },
+          {
+            "rank": 10,
+            "frequency": 0.097498,
+            "wavelength": 10.26,
+            "power": 4222.4993,
+            "density_per_unit": 0.097498
+          }
+        ]
+      }
+    ],
+    "20251210_155519.JPG": [
+      {
+        "p0": [
+          4879.0,
+          544.8
+        ],
+        "p1": [
+          7697.1,
+          513.5
+        ],
+        "line_length_px": 2818.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.0511,
+            "wavelength": 19.57,
+            "power": 33897.6286,
+            "density_per_unit": 0.0511
+          },
+          {
+            "rank": 2,
+            "frequency": 0.05252,
+            "wavelength": 19.04,
+            "power": 43064.8009,
+            "density_per_unit": 0.05252
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053229,
+            "wavelength": 18.79,
+            "power": 44804.9849,
+            "density_per_unit": 0.053229
+          },
+          {
+            "rank": 4,
+            "frequency": 0.056778,
+            "wavelength": 17.61,
+            "power": 126910.945,
+            "density_per_unit": 0.056778
+          },
+          {
+            "rank": 5,
+            "frequency": 0.059617,
+            "wavelength": 16.77,
+            "power": 16703.8699,
+            "density_per_unit": 0.059617
+          },
+          {
+            "rank": 6,
+            "frequency": 0.061036,
+            "wavelength": 16.38,
+            "power": 18354.3074,
+            "density_per_unit": 0.061036
+          },
+          {
+            "rank": 7,
+            "frequency": 0.061746,
+            "wavelength": 16.2,
+            "power": 34583.2891,
+            "density_per_unit": 0.061746
+          },
+          {
+            "rank": 8,
+            "frequency": 0.06494,
+            "wavelength": 15.4,
+            "power": 19475.6443,
+            "density_per_unit": 0.06494
+          },
+          {
+            "rank": 9,
+            "frequency": 0.068488,
+            "wavelength": 14.6,
+            "power": 15592.2696,
+            "density_per_unit": 0.068488
+          },
+          {
+            "rank": 10,
+            "frequency": 0.076295,
+            "wavelength": 13.11,
+            "power": 11267.1292,
+            "density_per_unit": 0.076295
+          }
+        ]
+      },
+      {
+        "p0": [
+          103.9,
+          2120.8
+        ],
+        "p1": [
+          1779.1,
+          1071.9
+        ],
+        "line_length_px": 1976.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050582,
+            "wavelength": 19.77,
+            "power": 10352.3218,
+            "density_per_unit": 0.050582
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051593,
+            "wavelength": 19.38,
+            "power": 9393.9018,
+            "density_per_unit": 0.051593
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053617,
+            "wavelength": 18.65,
+            "power": 9367.1467,
+            "density_per_unit": 0.053617
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057157,
+            "wavelength": 17.5,
+            "power": 8983.3992,
+            "density_per_unit": 0.057157
+          },
+          {
+            "rank": 5,
+            "frequency": 0.059181,
+            "wavelength": 16.9,
+            "power": 12219.1388,
+            "density_per_unit": 0.059181
+          },
+          {
+            "rank": 6,
+            "frequency": 0.060698,
+            "wavelength": 16.47,
+            "power": 5358.1559,
+            "density_per_unit": 0.060698
+          },
+          {
+            "rank": 7,
+            "frequency": 0.062721,
+            "wavelength": 15.94,
+            "power": 8171.5537,
+            "density_per_unit": 0.062721
+          },
+          {
+            "rank": 8,
+            "frequency": 0.064745,
+            "wavelength": 15.45,
+            "power": 2088.7817,
+            "density_per_unit": 0.064745
+          },
+          {
+            "rank": 9,
+            "frequency": 0.076884,
+            "wavelength": 13.01,
+            "power": 2364.4122,
+            "density_per_unit": 0.076884
+          },
+          {
+            "rank": 10,
+            "frequency": 0.094082,
+            "wavelength": 10.63,
+            "power": 3169.4111,
+            "density_per_unit": 0.094082
+          }
+        ]
+      },
+      {
+        "p0": [
+          2347.9,
+          946.6
+        ],
+        "p1": [
+          4169.3,
+          565.7
+        ],
+        "line_length_px": 1860.8,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.052123,
+            "wavelength": 19.19,
+            "power": 4942.65,
+            "density_per_unit": 0.052123
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053735,
+            "wavelength": 18.61,
+            "power": 17353.523,
+            "density_per_unit": 0.053735
+          },
+          {
+            "rank": 3,
+            "frequency": 0.055884,
+            "wavelength": 17.89,
+            "power": 10633.5195,
+            "density_per_unit": 0.055884
+          },
+          {
+            "rank": 4,
+            "frequency": 0.061795,
+            "wavelength": 16.18,
+            "power": 7408.9157,
+            "density_per_unit": 0.061795
+          },
+          {
+            "rank": 5,
+            "frequency": 0.063944,
+            "wavelength": 15.64,
+            "power": 6558.8865,
+            "density_per_unit": 0.063944
+          },
+          {
+            "rank": 6,
+            "frequency": 0.065019,
+            "wavelength": 15.38,
+            "power": 6634.4117,
+            "density_per_unit": 0.065019
+          },
+          {
+            "rank": 7,
+            "frequency": 0.06878,
+            "wavelength": 14.54,
+            "power": 5694.7809,
+            "density_per_unit": 0.06878
+          },
+          {
+            "rank": 8,
+            "frequency": 0.071467,
+            "wavelength": 13.99,
+            "power": 6481.071,
+            "density_per_unit": 0.071467
+          },
+          {
+            "rank": 9,
+            "frequency": 0.072542,
+            "wavelength": 13.79,
+            "power": 4836.315,
+            "density_per_unit": 0.072542
+          },
+          {
+            "rank": 10,
+            "frequency": 0.074154,
+            "wavelength": 13.49,
+            "power": 4648.4123,
+            "density_per_unit": 0.074154
+          }
+        ]
+      },
+      {
+        "p0": [
+          5510.5,
+          346.5
+        ],
+        "p1": [
+          7895.5,
+          247.3
+        ],
+        "line_length_px": 2387.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.054043,
+            "wavelength": 18.5,
+            "power": 5650.4269,
+            "density_per_unit": 0.054043
+          },
+          {
+            "rank": 2,
+            "frequency": 0.056137,
+            "wavelength": 17.81,
+            "power": 7084.4968,
+            "density_per_unit": 0.056137
+          },
+          {
+            "rank": 3,
+            "frequency": 0.057813,
+            "wavelength": 17.3,
+            "power": 5577.045,
+            "density_per_unit": 0.057813
+          },
+          {
+            "rank": 4,
+            "frequency": 0.059489,
+            "wavelength": 16.81,
+            "power": 4724.6016,
+            "density_per_unit": 0.059489
+          },
+          {
+            "rank": 5,
+            "frequency": 0.06284,
+            "wavelength": 15.91,
+            "power": 5428.6142,
+            "density_per_unit": 0.06284
+          },
+          {
+            "rank": 6,
+            "frequency": 0.064516,
+            "wavelength": 15.5,
+            "power": 11956.4758,
+            "density_per_unit": 0.064516
+          },
+          {
+            "rank": 7,
+            "frequency": 0.065773,
+            "wavelength": 15.2,
+            "power": 5595.0806,
+            "density_per_unit": 0.065773
+          },
+          {
+            "rank": 8,
+            "frequency": 0.067449,
+            "wavelength": 14.83,
+            "power": 6825.7994,
+            "density_per_unit": 0.067449
+          },
+          {
+            "rank": 9,
+            "frequency": 0.069962,
+            "wavelength": 14.29,
+            "power": 16917.6199,
+            "density_per_unit": 0.069962
+          },
+          {
+            "rank": 10,
+            "frequency": 0.071638,
+            "wavelength": 13.96,
+            "power": 6115.3752,
+            "density_per_unit": 0.071638
+          }
+        ]
+      },
+      {
+        "p0": [
+          5338.3,
+          654.4
+        ],
+        "p1": [
+          7603.2,
+          659.6
+        ],
+        "line_length_px": 2264.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051656,
+            "wavelength": 19.36,
+            "power": 15382.5589,
+            "density_per_unit": 0.051656
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052539,
+            "wavelength": 19.03,
+            "power": 18424.5124,
+            "density_per_unit": 0.052539
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053863,
+            "wavelength": 18.57,
+            "power": 48907.3255,
+            "density_per_unit": 0.053863
+          },
+          {
+            "rank": 4,
+            "frequency": 0.054746,
+            "wavelength": 18.27,
+            "power": 21790.1666,
+            "density_per_unit": 0.054746
+          },
+          {
+            "rank": 5,
+            "frequency": 0.055629,
+            "wavelength": 17.98,
+            "power": 53634.3723,
+            "density_per_unit": 0.055629
+          },
+          {
+            "rank": 6,
+            "frequency": 0.056512,
+            "wavelength": 17.7,
+            "power": 35097.9047,
+            "density_per_unit": 0.056512
+          },
+          {
+            "rank": 7,
+            "frequency": 0.060927,
+            "wavelength": 16.41,
+            "power": 11626.9369,
+            "density_per_unit": 0.060927
+          },
+          {
+            "rank": 8,
+            "frequency": 0.062252,
+            "wavelength": 16.06,
+            "power": 10311.8766,
+            "density_per_unit": 0.062252
+          },
+          {
+            "rank": 9,
+            "frequency": 0.067991,
+            "wavelength": 14.71,
+            "power": 20042.2942,
+            "density_per_unit": 0.067991
+          },
+          {
+            "rank": 10,
+            "frequency": 0.072848,
+            "wavelength": 13.73,
+            "power": 39319.6937,
+            "density_per_unit": 0.072848
+          }
+        ]
+      },
+      {
+        "p0": [
+          2139.2,
+          1061.4
+        ],
+        "p1": [
+          7932.0,
+          356.9
+        ],
+        "line_length_px": 5835.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051071,
+            "wavelength": 19.58,
+            "power": 108803.103,
+            "density_per_unit": 0.051071
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051414,
+            "wavelength": 19.45,
+            "power": 74771.109,
+            "density_per_unit": 0.051414
+          },
+          {
+            "rank": 3,
+            "frequency": 0.052099,
+            "wavelength": 19.19,
+            "power": 114590.5141,
+            "density_per_unit": 0.052099
+          },
+          {
+            "rank": 4,
+            "frequency": 0.053299,
+            "wavelength": 18.76,
+            "power": 109781.7385,
+            "density_per_unit": 0.053299
+          },
+          {
+            "rank": 5,
+            "frequency": 0.054327,
+            "wavelength": 18.41,
+            "power": 131411.255,
+            "density_per_unit": 0.054327
+          },
+          {
+            "rank": 6,
+            "frequency": 0.056898,
+            "wavelength": 17.58,
+            "power": 87003.4648,
+            "density_per_unit": 0.056898
+          },
+          {
+            "rank": 7,
+            "frequency": 0.057241,
+            "wavelength": 17.47,
+            "power": 80397.0422,
+            "density_per_unit": 0.057241
+          },
+          {
+            "rank": 8,
+            "frequency": 0.068895,
+            "wavelength": 14.51,
+            "power": 81568.8385,
+            "density_per_unit": 0.068895
+          },
+          {
+            "rank": 9,
+            "frequency": 0.070951,
+            "wavelength": 14.09,
+            "power": 89104.5236,
+            "density_per_unit": 0.070951
+          },
+          {
+            "rank": 10,
+            "frequency": 0.072151,
+            "wavelength": 13.86,
+            "power": 116389.1589,
+            "density_per_unit": 0.072151
+          }
+        ]
+      },
+      {
+        "p0": [
+          2254.0,
+          873.6
+        ],
+        "p1": [
+          6486.4,
+          424.8
+        ],
+        "line_length_px": 4256.1,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.052162,
+            "wavelength": 19.17,
+            "power": 147781.4173,
+            "density_per_unit": 0.052162
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053571,
+            "wavelength": 18.67,
+            "power": 160040.5835,
+            "density_per_unit": 0.053571
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056391,
+            "wavelength": 17.73,
+            "power": 191094.3186,
+            "density_per_unit": 0.056391
+          },
+          {
+            "rank": 4,
+            "frequency": 0.058506,
+            "wavelength": 17.09,
+            "power": 49507.1845,
+            "density_per_unit": 0.058506
+          },
+          {
+            "rank": 5,
+            "frequency": 0.059915,
+            "wavelength": 16.69,
+            "power": 108178.692,
+            "density_per_unit": 0.059915
+          },
+          {
+            "rank": 6,
+            "frequency": 0.06109,
+            "wavelength": 16.37,
+            "power": 52279.2826,
+            "density_per_unit": 0.06109
+          },
+          {
+            "rank": 7,
+            "frequency": 0.06391,
+            "wavelength": 15.65,
+            "power": 160152.0478,
+            "density_per_unit": 0.06391
+          },
+          {
+            "rank": 8,
+            "frequency": 0.067199,
+            "wavelength": 14.88,
+            "power": 58476.9221,
+            "density_per_unit": 0.067199
+          },
+          {
+            "rank": 9,
+            "frequency": 0.069784,
+            "wavelength": 14.33,
+            "power": 60006.4418,
+            "density_per_unit": 0.069784
+          },
+          {
+            "rank": 10,
+            "frequency": 0.073308,
+            "wavelength": 13.64,
+            "power": 54132.1817,
+            "density_per_unit": 0.073308
+          }
+        ]
+      },
+      {
+        "p0": [
+          109.1,
+          2214.8
+        ],
+        "p1": [
+          1732.1,
+          1369.3
+        ],
+        "line_length_px": 1830.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050273,
+            "wavelength": 19.89,
+            "power": 7016.9743,
+            "density_per_unit": 0.050273
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052459,
+            "wavelength": 19.06,
+            "power": 3335.8235,
+            "density_per_unit": 0.052459
+          },
+          {
+            "rank": 3,
+            "frequency": 0.054098,
+            "wavelength": 18.48,
+            "power": 3636.9755,
+            "density_per_unit": 0.054098
+          },
+          {
+            "rank": 4,
+            "frequency": 0.056831,
+            "wavelength": 17.6,
+            "power": 4584.9523,
+            "density_per_unit": 0.056831
+          },
+          {
+            "rank": 5,
+            "frequency": 0.065574,
+            "wavelength": 15.25,
+            "power": 1686.0576,
+            "density_per_unit": 0.065574
+          },
+          {
+            "rank": 6,
+            "frequency": 0.069945,
+            "wavelength": 14.3,
+            "power": 4543.839,
+            "density_per_unit": 0.069945
+          },
+          {
+            "rank": 7,
+            "frequency": 0.072678,
+            "wavelength": 13.76,
+            "power": 3001.2918,
+            "density_per_unit": 0.072678
+          },
+          {
+            "rank": 8,
+            "frequency": 0.086339,
+            "wavelength": 11.58,
+            "power": 1677.2244,
+            "density_per_unit": 0.086339
+          },
+          {
+            "rank": 9,
+            "frequency": 0.105464,
+            "wavelength": 9.48,
+            "power": 2358.5686,
+            "density_per_unit": 0.105464
+          },
+          {
+            "rank": 10,
+            "frequency": 0.112568,
+            "wavelength": 8.88,
+            "power": 1514.0873,
+            "density_per_unit": 0.112568
+          }
+        ]
+      },
+      {
+        "p0": [
+          907.6,
+          1588.5
+        ],
+        "p1": [
+          1888.7,
+          941.4
+        ],
+        "line_length_px": 1175.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051915,
+            "wavelength": 19.26,
+            "power": 23989.8727,
+            "density_per_unit": 0.051915
+          },
+          {
+            "rank": 2,
+            "frequency": 0.057021,
+            "wavelength": 17.54,
+            "power": 11710.7572,
+            "density_per_unit": 0.057021
+          },
+          {
+            "rank": 3,
+            "frequency": 0.060426,
+            "wavelength": 16.55,
+            "power": 2990.0863,
+            "density_per_unit": 0.060426
+          },
+          {
+            "rank": 4,
+            "frequency": 0.062979,
+            "wavelength": 15.88,
+            "power": 2811.1305,
+            "density_per_unit": 0.062979
+          },
+          {
+            "rank": 5,
+            "frequency": 0.066383,
+            "wavelength": 15.06,
+            "power": 2992.3826,
+            "density_per_unit": 0.066383
+          },
+          {
+            "rank": 6,
+            "frequency": 0.069787,
+            "wavelength": 14.33,
+            "power": 4087.2228,
+            "density_per_unit": 0.069787
+          },
+          {
+            "rank": 7,
+            "frequency": 0.074043,
+            "wavelength": 13.51,
+            "power": 7843.9133,
+            "density_per_unit": 0.074043
+          },
+          {
+            "rank": 8,
+            "frequency": 0.077447,
+            "wavelength": 12.91,
+            "power": 4110.4321,
+            "density_per_unit": 0.077447
+          },
+          {
+            "rank": 9,
+            "frequency": 0.085106,
+            "wavelength": 11.75,
+            "power": 3824.0141,
+            "density_per_unit": 0.085106
+          },
+          {
+            "rank": 10,
+            "frequency": 0.104681,
+            "wavelength": 9.55,
+            "power": 2098.8172,
+            "density_per_unit": 0.104681
+          }
+        ]
+      },
+      {
+        "p0": [
+          5343.5,
+          842.3
+        ],
+        "p1": [
+          7780.6,
+          591.8
+        ],
+        "line_length_px": 2450.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050204,
+            "wavelength": 19.92,
+            "power": 38880.4414,
+            "density_per_unit": 0.050204
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052245,
+            "wavelength": 19.14,
+            "power": 29073.7638,
+            "density_per_unit": 0.052245
+          },
+          {
+            "rank": 3,
+            "frequency": 0.055102,
+            "wavelength": 18.15,
+            "power": 38287.031,
+            "density_per_unit": 0.055102
+          },
+          {
+            "rank": 4,
+            "frequency": 0.059184,
+            "wavelength": 16.9,
+            "power": 19059.1777,
+            "density_per_unit": 0.059184
+          },
+          {
+            "rank": 5,
+            "frequency": 0.06,
+            "wavelength": 16.67,
+            "power": 11955.3504,
+            "density_per_unit": 0.06
+          },
+          {
+            "rank": 6,
+            "frequency": 0.061224,
+            "wavelength": 16.33,
+            "power": 18533.368,
+            "density_per_unit": 0.061224
+          },
+          {
+            "rank": 7,
+            "frequency": 0.062449,
+            "wavelength": 16.01,
+            "power": 10166.1919,
+            "density_per_unit": 0.062449
+          },
+          {
+            "rank": 8,
+            "frequency": 0.063673,
+            "wavelength": 15.71,
+            "power": 14381.518,
+            "density_per_unit": 0.063673
+          },
+          {
+            "rank": 9,
+            "frequency": 0.06898,
+            "wavelength": 14.5,
+            "power": 20595.362,
+            "density_per_unit": 0.06898
+          },
+          {
+            "rank": 10,
+            "frequency": 0.082041,
+            "wavelength": 12.19,
+            "power": 8724.1245,
+            "density_per_unit": 0.082041
+          }
+        ]
+      }
+    ],
+    "20251210_155530.JPG": [
+      {
+        "p0": [
+          411.8,
+          1948.6
+        ],
+        "p1": [
+          2280.1,
+          983.2
+        ],
+        "line_length_px": 2103.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050404,
+            "wavelength": 19.84,
+            "power": 12384.062,
+            "density_per_unit": 0.050404
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052306,
+            "wavelength": 19.12,
+            "power": 3989.3794,
+            "density_per_unit": 0.052306
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053733,
+            "wavelength": 18.61,
+            "power": 4014.8412,
+            "density_per_unit": 0.053733
+          },
+          {
+            "rank": 4,
+            "frequency": 0.05611,
+            "wavelength": 17.82,
+            "power": 19461.4874,
+            "density_per_unit": 0.05611
+          },
+          {
+            "rank": 5,
+            "frequency": 0.060865,
+            "wavelength": 16.43,
+            "power": 11106.2102,
+            "density_per_unit": 0.060865
+          },
+          {
+            "rank": 6,
+            "frequency": 0.063243,
+            "wavelength": 15.81,
+            "power": 4288.2681,
+            "density_per_unit": 0.063243
+          },
+          {
+            "rank": 7,
+            "frequency": 0.065621,
+            "wavelength": 15.24,
+            "power": 18986.8754,
+            "density_per_unit": 0.065621
+          },
+          {
+            "rank": 8,
+            "frequency": 0.070376,
+            "wavelength": 14.21,
+            "power": 11224.7559,
+            "density_per_unit": 0.070376
+          },
+          {
+            "rank": 9,
+            "frequency": 0.07418,
+            "wavelength": 13.48,
+            "power": 3669.0708,
+            "density_per_unit": 0.07418
+          },
+          {
+            "rank": 10,
+            "frequency": 0.07941,
+            "wavelength": 12.59,
+            "power": 2786.9954,
+            "density_per_unit": 0.07941
+          }
+        ]
+      },
+      {
+        "p0": [
+          4560.7,
+          315.2
+        ],
+        "p1": [
+          6152.4,
+          210.8
+        ],
+        "line_length_px": 1595.1,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051411,
+            "wavelength": 19.45,
+            "power": 8134.6661,
+            "density_per_unit": 0.051411
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052665,
+            "wavelength": 18.99,
+            "power": 23805.4458,
+            "density_per_unit": 0.052665
+          },
+          {
+            "rank": 3,
+            "frequency": 0.055172,
+            "wavelength": 18.12,
+            "power": 17449.294,
+            "density_per_unit": 0.055172
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057053,
+            "wavelength": 17.53,
+            "power": 6654.1772,
+            "density_per_unit": 0.057053
+          },
+          {
+            "rank": 5,
+            "frequency": 0.058934,
+            "wavelength": 16.97,
+            "power": 21851.6092,
+            "density_per_unit": 0.058934
+          },
+          {
+            "rank": 6,
+            "frequency": 0.060188,
+            "wavelength": 16.61,
+            "power": 9987.1027,
+            "density_per_unit": 0.060188
+          },
+          {
+            "rank": 7,
+            "frequency": 0.064577,
+            "wavelength": 15.49,
+            "power": 8245.7615,
+            "density_per_unit": 0.064577
+          },
+          {
+            "rank": 8,
+            "frequency": 0.066458,
+            "wavelength": 15.05,
+            "power": 3286.7467,
+            "density_per_unit": 0.066458
+          },
+          {
+            "rank": 9,
+            "frequency": 0.068966,
+            "wavelength": 14.5,
+            "power": 4500.5135,
+            "density_per_unit": 0.068966
+          },
+          {
+            "rank": 10,
+            "frequency": 0.082759,
+            "wavelength": 12.08,
+            "power": 4868.7647,
+            "density_per_unit": 0.082759
+          }
+        ]
+      },
+      {
+        "p0": [
+          4571.1,
+          696.1
+        ],
+        "p1": [
+          6110.6,
+          492.6
+        ],
+        "line_length_px": 1552.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050225,
+            "wavelength": 19.91,
+            "power": 3186.0476,
+            "density_per_unit": 0.050225
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052157,
+            "wavelength": 19.17,
+            "power": 1721.069,
+            "density_per_unit": 0.052157
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056665,
+            "wavelength": 17.65,
+            "power": 4788.4904,
+            "density_per_unit": 0.056665
+          },
+          {
+            "rank": 4,
+            "frequency": 0.061172,
+            "wavelength": 16.35,
+            "power": 7164.5435,
+            "density_per_unit": 0.061172
+          },
+          {
+            "rank": 5,
+            "frequency": 0.064392,
+            "wavelength": 15.53,
+            "power": 3179.9351,
+            "density_per_unit": 0.064392
+          },
+          {
+            "rank": 6,
+            "frequency": 0.066967,
+            "wavelength": 14.93,
+            "power": 1981.4273,
+            "density_per_unit": 0.066967
+          },
+          {
+            "rank": 7,
+            "frequency": 0.072762,
+            "wavelength": 13.74,
+            "power": 1723.0228,
+            "density_per_unit": 0.072762
+          },
+          {
+            "rank": 8,
+            "frequency": 0.074694,
+            "wavelength": 13.39,
+            "power": 3192.2489,
+            "density_per_unit": 0.074694
+          },
+          {
+            "rank": 9,
+            "frequency": 0.077914,
+            "wavelength": 12.83,
+            "power": 1536.9749,
+            "density_per_unit": 0.077914
+          },
+          {
+            "rank": 10,
+            "frequency": 0.082421,
+            "wavelength": 12.13,
+            "power": 2840.3627,
+            "density_per_unit": 0.082421
+          }
+        ]
+      },
+      {
+        "p0": [
+          6961.3,
+          320.4
+        ],
+        "p1": [
+          7978.9,
+          414.3
+        ],
+        "line_length_px": 1022.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050881,
+            "wavelength": 19.65,
+            "power": 1641.2755,
+            "density_per_unit": 0.050881
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053816,
+            "wavelength": 18.58,
+            "power": 5996.3401,
+            "density_per_unit": 0.053816
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056751,
+            "wavelength": 17.62,
+            "power": 6240.9043,
+            "density_per_unit": 0.056751
+          },
+          {
+            "rank": 4,
+            "frequency": 0.059687,
+            "wavelength": 16.75,
+            "power": 816.5236,
+            "density_per_unit": 0.059687
+          },
+          {
+            "rank": 5,
+            "frequency": 0.064579,
+            "wavelength": 15.48,
+            "power": 5404.7625,
+            "density_per_unit": 0.064579
+          },
+          {
+            "rank": 6,
+            "frequency": 0.069472,
+            "wavelength": 14.39,
+            "power": 1895.3487,
+            "density_per_unit": 0.069472
+          },
+          {
+            "rank": 7,
+            "frequency": 0.075342,
+            "wavelength": 13.27,
+            "power": 934.0152,
+            "density_per_unit": 0.075342
+          },
+          {
+            "rank": 8,
+            "frequency": 0.078278,
+            "wavelength": 12.78,
+            "power": 2831.6064,
+            "density_per_unit": 0.078278
+          },
+          {
+            "rank": 9,
+            "frequency": 0.082192,
+            "wavelength": 12.17,
+            "power": 1219.217,
+            "density_per_unit": 0.082192
+          },
+          {
+            "rank": 10,
+            "frequency": 0.136986,
+            "wavelength": 7.3,
+            "power": 599.0347,
+            "density_per_unit": 0.136986
+          }
+        ]
+      },
+      {
+        "p0": [
+          2468.0,
+          899.7
+        ],
+        "p1": [
+          3897.9,
+          523.9
+        ],
+        "line_length_px": 1478.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050068,
+            "wavelength": 19.97,
+            "power": 56748.5379,
+            "density_per_unit": 0.050068
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052774,
+            "wavelength": 18.95,
+            "power": 34817.895,
+            "density_per_unit": 0.052774
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056157,
+            "wavelength": 17.81,
+            "power": 18232.7545,
+            "density_per_unit": 0.056157
+          },
+          {
+            "rank": 4,
+            "frequency": 0.058863,
+            "wavelength": 16.99,
+            "power": 11798.1198,
+            "density_per_unit": 0.058863
+          },
+          {
+            "rank": 5,
+            "frequency": 0.060893,
+            "wavelength": 16.42,
+            "power": 12733.5946,
+            "density_per_unit": 0.060893
+          },
+          {
+            "rank": 6,
+            "frequency": 0.067659,
+            "wavelength": 14.78,
+            "power": 6772.5229,
+            "density_per_unit": 0.067659
+          },
+          {
+            "rank": 7,
+            "frequency": 0.071719,
+            "wavelength": 13.94,
+            "power": 6354.7571,
+            "density_per_unit": 0.071719
+          },
+          {
+            "rank": 8,
+            "frequency": 0.073072,
+            "wavelength": 13.69,
+            "power": 6018.169,
+            "density_per_unit": 0.073072
+          },
+          {
+            "rank": 9,
+            "frequency": 0.074425,
+            "wavelength": 13.44,
+            "power": 6051.4615,
+            "density_per_unit": 0.074425
+          },
+          {
+            "rank": 10,
+            "frequency": 0.077131,
+            "wavelength": 12.96,
+            "power": 10547.8276,
+            "density_per_unit": 0.077131
+          }
+        ]
+      },
+      {
+        "p0": [
+          516.2,
+          2011.3
+        ],
+        "p1": [
+          2347.9,
+          1144.9
+        ],
+        "line_length_px": 2026.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050839,
+            "wavelength": 19.67,
+            "power": 3435.9293,
+            "density_per_unit": 0.050839
+          },
+          {
+            "rank": 2,
+            "frequency": 0.054294,
+            "wavelength": 18.42,
+            "power": 9080.7872,
+            "density_per_unit": 0.054294
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056762,
+            "wavelength": 17.62,
+            "power": 2324.0341,
+            "density_per_unit": 0.056762
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057749,
+            "wavelength": 17.32,
+            "power": 9396.8466,
+            "density_per_unit": 0.057749
+          },
+          {
+            "rank": 5,
+            "frequency": 0.060217,
+            "wavelength": 16.61,
+            "power": 5226.0917,
+            "density_per_unit": 0.060217
+          },
+          {
+            "rank": 6,
+            "frequency": 0.063179,
+            "wavelength": 15.83,
+            "power": 4338.7478,
+            "density_per_unit": 0.063179
+          },
+          {
+            "rank": 7,
+            "frequency": 0.067127,
+            "wavelength": 14.9,
+            "power": 3395.2443,
+            "density_per_unit": 0.067127
+          },
+          {
+            "rank": 8,
+            "frequency": 0.068115,
+            "wavelength": 14.68,
+            "power": 2448.7328,
+            "density_per_unit": 0.068115
+          },
+          {
+            "rank": 9,
+            "frequency": 0.070582,
+            "wavelength": 14.17,
+            "power": 1845.7565,
+            "density_per_unit": 0.070582
+          },
+          {
+            "rank": 10,
+            "frequency": 0.090326,
+            "wavelength": 11.07,
+            "power": 2662.9521,
+            "density_per_unit": 0.090326
+          }
+        ]
+      },
+      {
+        "p0": [
+          3798.7,
+          753.5
+        ],
+        "p1": [
+          5750.5,
+          398.7
+        ],
+        "line_length_px": 1983.8,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051411,
+            "wavelength": 19.45,
+            "power": 30316.3988,
+            "density_per_unit": 0.051411
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053931,
+            "wavelength": 18.54,
+            "power": 21560.6362,
+            "density_per_unit": 0.053931
+          },
+          {
+            "rank": 3,
+            "frequency": 0.059476,
+            "wavelength": 16.81,
+            "power": 24657.1524,
+            "density_per_unit": 0.059476
+          },
+          {
+            "rank": 4,
+            "frequency": 0.061996,
+            "wavelength": 16.13,
+            "power": 32224.1395,
+            "density_per_unit": 0.061996
+          },
+          {
+            "rank": 5,
+            "frequency": 0.063004,
+            "wavelength": 15.87,
+            "power": 14660.7119,
+            "density_per_unit": 0.063004
+          },
+          {
+            "rank": 6,
+            "frequency": 0.06502,
+            "wavelength": 15.38,
+            "power": 20285.96,
+            "density_per_unit": 0.06502
+          },
+          {
+            "rank": 7,
+            "frequency": 0.066028,
+            "wavelength": 15.15,
+            "power": 11465.8316,
+            "density_per_unit": 0.066028
+          },
+          {
+            "rank": 8,
+            "frequency": 0.067036,
+            "wavelength": 14.92,
+            "power": 24567.5236,
+            "density_per_unit": 0.067036
+          },
+          {
+            "rank": 9,
+            "frequency": 0.069052,
+            "wavelength": 14.48,
+            "power": 12533.8685,
+            "density_per_unit": 0.069052
+          },
+          {
+            "rank": 10,
+            "frequency": 0.070565,
+            "wavelength": 14.17,
+            "power": 12545.9729,
+            "density_per_unit": 0.070565
+          }
+        ]
+      },
+      {
+        "p0": [
+          4539.8,
+          330.8
+        ],
+        "p1": [
+          6961.3,
+          221.2
+        ],
+        "line_length_px": 2424.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051155,
+            "wavelength": 19.55,
+            "power": 47225.81,
+            "density_per_unit": 0.051155
+          },
+          {
+            "rank": 2,
+            "frequency": 0.05198,
+            "wavelength": 19.24,
+            "power": 129880.5878,
+            "density_per_unit": 0.05198
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053218,
+            "wavelength": 18.79,
+            "power": 140399.8243,
+            "density_per_unit": 0.053218
+          },
+          {
+            "rank": 4,
+            "frequency": 0.055281,
+            "wavelength": 18.09,
+            "power": 41063.3502,
+            "density_per_unit": 0.055281
+          },
+          {
+            "rank": 5,
+            "frequency": 0.056518,
+            "wavelength": 17.69,
+            "power": 86983.6681,
+            "density_per_unit": 0.056518
+          },
+          {
+            "rank": 6,
+            "frequency": 0.057343,
+            "wavelength": 17.44,
+            "power": 41786.0241,
+            "density_per_unit": 0.057343
+          },
+          {
+            "rank": 7,
+            "frequency": 0.058581,
+            "wavelength": 17.07,
+            "power": 69784.2968,
+            "density_per_unit": 0.058581
+          },
+          {
+            "rank": 8,
+            "frequency": 0.061881,
+            "wavelength": 16.16,
+            "power": 101023.7992,
+            "density_per_unit": 0.061881
+          },
+          {
+            "rank": 9,
+            "frequency": 0.067657,
+            "wavelength": 14.78,
+            "power": 56925.7814,
+            "density_per_unit": 0.067657
+          },
+          {
+            "rank": 10,
+            "frequency": 0.070545,
+            "wavelength": 14.18,
+            "power": 37417.6104,
+            "density_per_unit": 0.070545
+          }
+        ]
+      },
+      {
+        "p0": [
+          4576.3,
+          555.2
+        ],
+        "p1": [
+          7733.7,
+          330.8
+        ],
+        "line_length_px": 3165.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050869,
+            "wavelength": 19.66,
+            "power": 217321.5114,
+            "density_per_unit": 0.050869
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052449,
+            "wavelength": 19.07,
+            "power": 33067.2725,
+            "density_per_unit": 0.052449
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053081,
+            "wavelength": 18.84,
+            "power": 37821.3146,
+            "density_per_unit": 0.053081
+          },
+          {
+            "rank": 4,
+            "frequency": 0.054028,
+            "wavelength": 18.51,
+            "power": 40565.4115,
+            "density_per_unit": 0.054028
+          },
+          {
+            "rank": 5,
+            "frequency": 0.055608,
+            "wavelength": 17.98,
+            "power": 58870.4302,
+            "density_per_unit": 0.055608
+          },
+          {
+            "rank": 6,
+            "frequency": 0.057188,
+            "wavelength": 17.49,
+            "power": 66735.5292,
+            "density_per_unit": 0.057188
+          },
+          {
+            "rank": 7,
+            "frequency": 0.058768,
+            "wavelength": 17.02,
+            "power": 32947.3658,
+            "density_per_unit": 0.058768
+          },
+          {
+            "rank": 8,
+            "frequency": 0.060348,
+            "wavelength": 16.57,
+            "power": 56818.5015,
+            "density_per_unit": 0.060348
+          },
+          {
+            "rank": 9,
+            "frequency": 0.061927,
+            "wavelength": 16.15,
+            "power": 40059.42,
+            "density_per_unit": 0.061927
+          },
+          {
+            "rank": 10,
+            "frequency": 0.065403,
+            "wavelength": 15.29,
+            "power": 45630.1046,
+            "density_per_unit": 0.065403
+          }
+        ]
+      },
+      {
+        "p0": [
+          4633.7,
+          784.8
+        ],
+        "p1": [
+          7712.8,
+          597.0
+        ],
+        "line_length_px": 3084.8,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050567,
+            "wavelength": 19.78,
+            "power": 18087.4457,
+            "density_per_unit": 0.050567
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051216,
+            "wavelength": 19.53,
+            "power": 32845.66,
+            "density_per_unit": 0.051216
+          },
+          {
+            "rank": 3,
+            "frequency": 0.052836,
+            "wavelength": 18.93,
+            "power": 8455.0703,
+            "density_per_unit": 0.052836
+          },
+          {
+            "rank": 4,
+            "frequency": 0.054133,
+            "wavelength": 18.47,
+            "power": 6889.5725,
+            "density_per_unit": 0.054133
+          },
+          {
+            "rank": 5,
+            "frequency": 0.056726,
+            "wavelength": 17.63,
+            "power": 9975.4134,
+            "density_per_unit": 0.056726
+          },
+          {
+            "rank": 6,
+            "frequency": 0.057699,
+            "wavelength": 17.33,
+            "power": 7456.6918,
+            "density_per_unit": 0.057699
+          },
+          {
+            "rank": 7,
+            "frequency": 0.059643,
+            "wavelength": 16.77,
+            "power": 9429.2775,
+            "density_per_unit": 0.059643
+          },
+          {
+            "rank": 8,
+            "frequency": 0.060616,
+            "wavelength": 16.5,
+            "power": 7175.3191,
+            "density_per_unit": 0.060616
+          },
+          {
+            "rank": 9,
+            "frequency": 0.06872,
+            "wavelength": 14.55,
+            "power": 12681.2401,
+            "density_per_unit": 0.06872
+          },
+          {
+            "rank": 10,
+            "frequency": 0.072285,
+            "wavelength": 13.83,
+            "power": 7380.1754,
+            "density_per_unit": 0.072285
+          }
+        ]
+      },
+      {
+        "p0": [
+          72.6,
+          1411.1
+        ],
+        "p1": [
+          3971.0,
+          466.5
+        ],
+        "line_length_px": 4011.2,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050611,
+            "wavelength": 19.76,
+            "power": 24716.7426,
+            "density_per_unit": 0.050611
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051359,
+            "wavelength": 19.47,
+            "power": 26960.6025,
+            "density_per_unit": 0.051359
+          },
+          {
+            "rank": 3,
+            "frequency": 0.051857,
+            "wavelength": 19.28,
+            "power": 22861.6321,
+            "density_per_unit": 0.051857
+          },
+          {
+            "rank": 4,
+            "frequency": 0.052855,
+            "wavelength": 18.92,
+            "power": 16439.2652,
+            "density_per_unit": 0.052855
+          },
+          {
+            "rank": 5,
+            "frequency": 0.053603,
+            "wavelength": 18.66,
+            "power": 28273.7076,
+            "density_per_unit": 0.053603
+          },
+          {
+            "rank": 6,
+            "frequency": 0.059586,
+            "wavelength": 16.78,
+            "power": 27992.895,
+            "density_per_unit": 0.059586
+          },
+          {
+            "rank": 7,
+            "frequency": 0.060583,
+            "wavelength": 16.51,
+            "power": 19370.2325,
+            "density_per_unit": 0.060583
+          },
+          {
+            "rank": 8,
+            "frequency": 0.061331,
+            "wavelength": 16.3,
+            "power": 17382.6939,
+            "density_per_unit": 0.061331
+          },
+          {
+            "rank": 9,
+            "frequency": 0.063326,
+            "wavelength": 15.79,
+            "power": 21900.9405,
+            "density_per_unit": 0.063326
+          },
+          {
+            "rank": 10,
+            "frequency": 0.071803,
+            "wavelength": 13.93,
+            "power": 21187.8746,
+            "density_per_unit": 0.071803
+          }
+        ]
+      },
+      {
+        "p0": [
+          109.1,
+          1719.0
+        ],
+        "p1": [
+          3678.7,
+          675.3
+        ],
+        "line_length_px": 3719.1,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050013,
+            "wavelength": 19.99,
+            "power": 62967.529,
+            "density_per_unit": 0.050013
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051089,
+            "wavelength": 19.57,
+            "power": 59550.3021,
+            "density_per_unit": 0.051089
+          },
+          {
+            "rank": 3,
+            "frequency": 0.052165,
+            "wavelength": 19.17,
+            "power": 118843.4921,
+            "density_per_unit": 0.052165
+          },
+          {
+            "rank": 4,
+            "frequency": 0.05324,
+            "wavelength": 18.78,
+            "power": 54140.2367,
+            "density_per_unit": 0.05324
+          },
+          {
+            "rank": 5,
+            "frequency": 0.053778,
+            "wavelength": 18.6,
+            "power": 89904.1695,
+            "density_per_unit": 0.053778
+          },
+          {
+            "rank": 6,
+            "frequency": 0.054853,
+            "wavelength": 18.23,
+            "power": 35750.1615,
+            "density_per_unit": 0.054853
+          },
+          {
+            "rank": 7,
+            "frequency": 0.05566,
+            "wavelength": 17.97,
+            "power": 39975.3841,
+            "density_per_unit": 0.05566
+          },
+          {
+            "rank": 8,
+            "frequency": 0.058349,
+            "wavelength": 17.14,
+            "power": 39480.1097,
+            "density_per_unit": 0.058349
+          },
+          {
+            "rank": 9,
+            "frequency": 0.062382,
+            "wavelength": 16.03,
+            "power": 31995.1648,
+            "density_per_unit": 0.062382
+          },
+          {
+            "rank": 10,
+            "frequency": 0.069642,
+            "wavelength": 14.36,
+            "power": 67234.0391,
+            "density_per_unit": 0.069642
+          }
+        ]
+      },
+      {
+        "p0": [
+          192.6,
+          1985.2
+        ],
+        "p1": [
+          3558.7,
+          727.4
+        ],
+        "line_length_px": 3593.4,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050097,
+            "wavelength": 19.96,
+            "power": 13470.4259,
+            "density_per_unit": 0.050097
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051489,
+            "wavelength": 19.42,
+            "power": 35703.6395,
+            "density_per_unit": 0.051489
+          },
+          {
+            "rank": 3,
+            "frequency": 0.053159,
+            "wavelength": 18.81,
+            "power": 14087.4675,
+            "density_per_unit": 0.053159
+          },
+          {
+            "rank": 4,
+            "frequency": 0.053716,
+            "wavelength": 18.62,
+            "power": 18534.2202,
+            "density_per_unit": 0.053716
+          },
+          {
+            "rank": 5,
+            "frequency": 0.054829,
+            "wavelength": 18.24,
+            "power": 23834.4863,
+            "density_per_unit": 0.054829
+          },
+          {
+            "rank": 6,
+            "frequency": 0.056777,
+            "wavelength": 17.61,
+            "power": 32064.2691,
+            "density_per_unit": 0.056777
+          },
+          {
+            "rank": 7,
+            "frequency": 0.059282,
+            "wavelength": 16.87,
+            "power": 30780.8231,
+            "density_per_unit": 0.059282
+          },
+          {
+            "rank": 8,
+            "frequency": 0.068188,
+            "wavelength": 14.67,
+            "power": 10904.9048,
+            "density_per_unit": 0.068188
+          },
+          {
+            "rank": 9,
+            "frequency": 0.070415,
+            "wavelength": 14.2,
+            "power": 10417.7902,
+            "density_per_unit": 0.070415
+          },
+          {
+            "rank": 10,
+            "frequency": 0.07125,
+            "wavelength": 14.04,
+            "power": 11879.9418,
+            "density_per_unit": 0.07125
+          }
+        ]
+      }
+    ],
+    "20251210_155614.JPG": [
+      {
+        "p0": [
+          1617.3,
+          1771.2
+        ],
+        "p1": [
+          4425.0,
+          1045.8
+        ],
+        "line_length_px": 2899.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050345,
+            "wavelength": 19.86,
+            "power": 5884.5036,
+            "density_per_unit": 0.050345
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051724,
+            "wavelength": 19.33,
+            "power": 9634.4794,
+            "density_per_unit": 0.051724
+          },
+          {
+            "rank": 3,
+            "frequency": 0.052759,
+            "wavelength": 18.95,
+            "power": 13415.1875,
+            "density_per_unit": 0.052759
+          },
+          {
+            "rank": 4,
+            "frequency": 0.053793,
+            "wavelength": 18.59,
+            "power": 11513.2041,
+            "density_per_unit": 0.053793
+          },
+          {
+            "rank": 5,
+            "frequency": 0.054828,
+            "wavelength": 18.24,
+            "power": 6899.6525,
+            "density_per_unit": 0.054828
+          },
+          {
+            "rank": 6,
+            "frequency": 0.055517,
+            "wavelength": 18.01,
+            "power": 7093.6384,
+            "density_per_unit": 0.055517
+          },
+          {
+            "rank": 7,
+            "frequency": 0.057931,
+            "wavelength": 17.26,
+            "power": 6230.9416,
+            "density_per_unit": 0.057931
+          },
+          {
+            "rank": 8,
+            "frequency": 0.06069,
+            "wavelength": 16.48,
+            "power": 8401.8533,
+            "density_per_unit": 0.06069
+          },
+          {
+            "rank": 9,
+            "frequency": 0.068621,
+            "wavelength": 14.57,
+            "power": 7184.9786,
+            "density_per_unit": 0.068621
+          },
+          {
+            "rank": 10,
+            "frequency": 0.077931,
+            "wavelength": 12.83,
+            "power": 6173.4653,
+            "density_per_unit": 0.077931
+          }
+        ]
+      },
+      {
+        "p0": [
+          1685.2,
+          1938.2
+        ],
+        "p1": [
+          2400.1,
+          1739.9
+        ],
+        "line_length_px": 742.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.053908,
+            "wavelength": 18.55,
+            "power": 2481.3241,
+            "density_per_unit": 0.053908
+          },
+          {
+            "rank": 2,
+            "frequency": 0.060647,
+            "wavelength": 16.49,
+            "power": 682.971,
+            "density_per_unit": 0.060647
+          },
+          {
+            "rank": 3,
+            "frequency": 0.06469,
+            "wavelength": 15.46,
+            "power": 323.0562,
+            "density_per_unit": 0.06469
+          },
+          {
+            "rank": 4,
+            "frequency": 0.068733,
+            "wavelength": 14.55,
+            "power": 252.7275,
+            "density_per_unit": 0.068733
+          },
+          {
+            "rank": 5,
+            "frequency": 0.075472,
+            "wavelength": 13.25,
+            "power": 331.6028,
+            "density_per_unit": 0.075472
+          },
+          {
+            "rank": 6,
+            "frequency": 0.080863,
+            "wavelength": 12.37,
+            "power": 247.5141,
+            "density_per_unit": 0.080863
+          },
+          {
+            "rank": 7,
+            "frequency": 0.092992,
+            "wavelength": 10.75,
+            "power": 157.8479,
+            "density_per_unit": 0.092992
+          },
+          {
+            "rank": 8,
+            "frequency": 0.097035,
+            "wavelength": 10.31,
+            "power": 190.012,
+            "density_per_unit": 0.097035
+          },
+          {
+            "rank": 9,
+            "frequency": 0.106469,
+            "wavelength": 9.39,
+            "power": 129.4071,
+            "density_per_unit": 0.106469
+          },
+          {
+            "rank": 10,
+            "frequency": 0.109164,
+            "wavelength": 9.16,
+            "power": 211.8399,
+            "density_per_unit": 0.109164
+          }
+        ]
+      },
+      {
+        "p0": [
+          3349.9,
+          1478.9
+        ],
+        "p1": [
+          4393.7,
+          1144.9
+        ],
+        "line_length_px": 1095.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050182,
+            "wavelength": 19.93,
+            "power": 1532.8509,
+            "density_per_unit": 0.050182
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052007,
+            "wavelength": 19.23,
+            "power": 1934.6179,
+            "density_per_unit": 0.052007
+          },
+          {
+            "rank": 3,
+            "frequency": 0.058394,
+            "wavelength": 17.12,
+            "power": 1278.4663,
+            "density_per_unit": 0.058394
+          },
+          {
+            "rank": 4,
+            "frequency": 0.060219,
+            "wavelength": 16.61,
+            "power": 999.1556,
+            "density_per_unit": 0.060219
+          },
+          {
+            "rank": 5,
+            "frequency": 0.062956,
+            "wavelength": 15.88,
+            "power": 3606.1544,
+            "density_per_unit": 0.062956
+          },
+          {
+            "rank": 6,
+            "frequency": 0.066606,
+            "wavelength": 15.01,
+            "power": 1192.0921,
+            "density_per_unit": 0.066606
+          },
+          {
+            "rank": 7,
+            "frequency": 0.069343,
+            "wavelength": 14.42,
+            "power": 2587.7004,
+            "density_per_unit": 0.069343
+          },
+          {
+            "rank": 8,
+            "frequency": 0.072993,
+            "wavelength": 13.7,
+            "power": 1219.7506,
+            "density_per_unit": 0.072993
+          },
+          {
+            "rank": 9,
+            "frequency": 0.080292,
+            "wavelength": 12.45,
+            "power": 1231.5974,
+            "density_per_unit": 0.080292
+          },
+          {
+            "rank": 10,
+            "frequency": 0.085766,
+            "wavelength": 11.66,
+            "power": 1216.7106,
+            "density_per_unit": 0.085766
+          }
+        ]
+      },
+      {
+        "p0": [
+          2775.9,
+          1343.3
+        ],
+        "p1": [
+          4351.9,
+          920.5
+        ],
+        "line_length_px": 1631.8,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050858,
+            "wavelength": 19.66,
+            "power": 13073.2484,
+            "density_per_unit": 0.050858
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053922,
+            "wavelength": 18.55,
+            "power": 5895.0936,
+            "density_per_unit": 0.053922
+          },
+          {
+            "rank": 3,
+            "frequency": 0.05576,
+            "wavelength": 17.93,
+            "power": 20156.9902,
+            "density_per_unit": 0.05576
+          },
+          {
+            "rank": 4,
+            "frequency": 0.061887,
+            "wavelength": 16.16,
+            "power": 3504.5301,
+            "density_per_unit": 0.061887
+          },
+          {
+            "rank": 5,
+            "frequency": 0.064951,
+            "wavelength": 15.4,
+            "power": 4831.739,
+            "density_per_unit": 0.064951
+          },
+          {
+            "rank": 6,
+            "frequency": 0.066789,
+            "wavelength": 14.97,
+            "power": 5853.3227,
+            "density_per_unit": 0.066789
+          },
+          {
+            "rank": 7,
+            "frequency": 0.073529,
+            "wavelength": 13.6,
+            "power": 2556.4578,
+            "density_per_unit": 0.073529
+          },
+          {
+            "rank": 8,
+            "frequency": 0.075368,
+            "wavelength": 13.27,
+            "power": 2672.0706,
+            "density_per_unit": 0.075368
+          },
+          {
+            "rank": 9,
+            "frequency": 0.081495,
+            "wavelength": 12.27,
+            "power": 3470.0872,
+            "density_per_unit": 0.081495
+          },
+          {
+            "rank": 10,
+            "frequency": 0.091912,
+            "wavelength": 10.88,
+            "power": 2514.9063,
+            "density_per_unit": 0.091912
+          }
+        ]
+      },
+      {
+        "p0": [
+          1700.8,
+          1833.8
+        ],
+        "p1": [
+          4612.9,
+          1092.8
+        ],
+        "line_length_px": 3004.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.05025,
+            "wavelength": 19.9,
+            "power": 7451.2497,
+            "density_per_unit": 0.05025
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052246,
+            "wavelength": 19.14,
+            "power": 19771.5552,
+            "density_per_unit": 0.052246
+          },
+          {
+            "rank": 3,
+            "frequency": 0.055574,
+            "wavelength": 17.99,
+            "power": 6888.9919,
+            "density_per_unit": 0.055574
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057238,
+            "wavelength": 17.47,
+            "power": 6527.8193,
+            "density_per_unit": 0.057238
+          },
+          {
+            "rank": 5,
+            "frequency": 0.057903,
+            "wavelength": 17.27,
+            "power": 6750.732,
+            "density_per_unit": 0.057903
+          },
+          {
+            "rank": 6,
+            "frequency": 0.058902,
+            "wavelength": 16.98,
+            "power": 18195.2285,
+            "density_per_unit": 0.058902
+          },
+          {
+            "rank": 7,
+            "frequency": 0.061231,
+            "wavelength": 16.33,
+            "power": 6507.4616,
+            "density_per_unit": 0.061231
+          },
+          {
+            "rank": 8,
+            "frequency": 0.066556,
+            "wavelength": 15.02,
+            "power": 12555.8996,
+            "density_per_unit": 0.066556
+          },
+          {
+            "rank": 9,
+            "frequency": 0.067887,
+            "wavelength": 14.73,
+            "power": 8750.3739,
+            "density_per_unit": 0.067887
+          },
+          {
+            "rank": 10,
+            "frequency": 0.07188,
+            "wavelength": 13.91,
+            "power": 7541.6648,
+            "density_per_unit": 0.07188
+          }
+        ]
+      },
+      {
+        "p0": [
+          2828.1,
+          1270.2
+        ],
+        "p1": [
+          4242.3,
+          957.1
+        ],
+        "line_length_px": 1448.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.05383,
+            "wavelength": 18.58,
+            "power": 1569.904,
+            "density_per_unit": 0.05383
+          },
+          {
+            "rank": 2,
+            "frequency": 0.055901,
+            "wavelength": 17.89,
+            "power": 1626.7904,
+            "density_per_unit": 0.055901
+          },
+          {
+            "rank": 3,
+            "frequency": 0.059351,
+            "wavelength": 16.85,
+            "power": 3709.3487,
+            "density_per_unit": 0.059351
+          },
+          {
+            "rank": 4,
+            "frequency": 0.060732,
+            "wavelength": 16.47,
+            "power": 1778.0438,
+            "density_per_unit": 0.060732
+          },
+          {
+            "rank": 5,
+            "frequency": 0.063492,
+            "wavelength": 15.75,
+            "power": 4227.1452,
+            "density_per_unit": 0.063492
+          },
+          {
+            "rank": 6,
+            "frequency": 0.065562,
+            "wavelength": 15.25,
+            "power": 2987.2497,
+            "density_per_unit": 0.065562
+          },
+          {
+            "rank": 7,
+            "frequency": 0.069013,
+            "wavelength": 14.49,
+            "power": 2431.0719,
+            "density_per_unit": 0.069013
+          },
+          {
+            "rank": 8,
+            "frequency": 0.072464,
+            "wavelength": 13.8,
+            "power": 5119.0376,
+            "density_per_unit": 0.072464
+          },
+          {
+            "rank": 9,
+            "frequency": 0.074534,
+            "wavelength": 13.42,
+            "power": 4177.0919,
+            "density_per_unit": 0.074534
+          },
+          {
+            "rank": 10,
+            "frequency": 0.091097,
+            "wavelength": 10.98,
+            "power": 1570.7476,
+            "density_per_unit": 0.091097
+          }
+        ]
+      }
+    ],
+    "20251210_155713.JPG": [
+      {
+        "p0": [
+          2895.9,
+          3034.1
+        ],
+        "p1": [
+          4555.5,
+          3102.0
+        ],
+        "line_length_px": 1660.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051174,
+            "wavelength": 19.54,
+            "power": 128374.4908,
+            "density_per_unit": 0.051174
+          },
+          {
+            "rank": 2,
+            "frequency": 0.05599,
+            "wavelength": 17.86,
+            "power": 36953.8767,
+            "density_per_unit": 0.05599
+          },
+          {
+            "rank": 3,
+            "frequency": 0.059001,
+            "wavelength": 16.95,
+            "power": 56231.9426,
+            "density_per_unit": 0.059001
+          },
+          {
+            "rank": 4,
+            "frequency": 0.060205,
+            "wavelength": 16.61,
+            "power": 179311.637,
+            "density_per_unit": 0.060205
+          },
+          {
+            "rank": 5,
+            "frequency": 0.062011,
+            "wavelength": 16.13,
+            "power": 30367.7328,
+            "density_per_unit": 0.062011
+          },
+          {
+            "rank": 6,
+            "frequency": 0.064419,
+            "wavelength": 15.52,
+            "power": 29917.7605,
+            "density_per_unit": 0.064419
+          },
+          {
+            "rank": 7,
+            "frequency": 0.066827,
+            "wavelength": 14.96,
+            "power": 37154.5976,
+            "density_per_unit": 0.066827
+          },
+          {
+            "rank": 8,
+            "frequency": 0.07646,
+            "wavelength": 13.08,
+            "power": 39493.4295,
+            "density_per_unit": 0.07646
+          },
+          {
+            "rank": 9,
+            "frequency": 0.078868,
+            "wavelength": 12.68,
+            "power": 29224.6376,
+            "density_per_unit": 0.078868
+          },
+          {
+            "rank": 10,
+            "frequency": 0.086695,
+            "wavelength": 11.53,
+            "power": 33937.4685,
+            "density_per_unit": 0.086695
+          }
+        ]
+      },
+      {
+        "p0": [
+          5265.2,
+          3055.0
+        ],
+        "p1": [
+          6648.2,
+          2366.1
+        ],
+        "line_length_px": 1545.0,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.05178,
+            "wavelength": 19.31,
+            "power": 45408.1785,
+            "density_per_unit": 0.05178
+          },
+          {
+            "rank": 2,
+            "frequency": 0.055016,
+            "wavelength": 18.18,
+            "power": 103317.1967,
+            "density_per_unit": 0.055016
+          },
+          {
+            "rank": 3,
+            "frequency": 0.056958,
+            "wavelength": 17.56,
+            "power": 61338.0746,
+            "density_per_unit": 0.056958
+          },
+          {
+            "rank": 4,
+            "frequency": 0.0589,
+            "wavelength": 16.98,
+            "power": 48902.3836,
+            "density_per_unit": 0.0589
+          },
+          {
+            "rank": 5,
+            "frequency": 0.060841,
+            "wavelength": 16.44,
+            "power": 48585.2018,
+            "density_per_unit": 0.060841
+          },
+          {
+            "rank": 6,
+            "frequency": 0.062783,
+            "wavelength": 15.93,
+            "power": 23722.8955,
+            "density_per_unit": 0.062783
+          },
+          {
+            "rank": 7,
+            "frequency": 0.064725,
+            "wavelength": 15.45,
+            "power": 16149.3662,
+            "density_per_unit": 0.064725
+          },
+          {
+            "rank": 8,
+            "frequency": 0.069903,
+            "wavelength": 14.31,
+            "power": 47219.3555,
+            "density_per_unit": 0.069903
+          },
+          {
+            "rank": 9,
+            "frequency": 0.073139,
+            "wavelength": 13.67,
+            "power": 32492.7505,
+            "density_per_unit": 0.073139
+          },
+          {
+            "rank": 10,
+            "frequency": 0.08479,
+            "wavelength": 11.79,
+            "power": 14717.9773,
+            "density_per_unit": 0.08479
+          }
+        ]
+      }
+    ],
+    "20251210_155748.JPG": [
+      {
+        "p0": [
+          1935.7,
+          3467.3
+        ],
+        "p1": [
+          3480.4,
+          2804.5
+        ],
+        "line_length_px": 1680.9,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050565,
+            "wavelength": 19.78,
+            "power": 22347.6842,
+            "density_per_unit": 0.050565
+          },
+          {
+            "rank": 2,
+            "frequency": 0.05354,
+            "wavelength": 18.68,
+            "power": 13217.9335,
+            "density_per_unit": 0.05354
+          },
+          {
+            "rank": 3,
+            "frequency": 0.058894,
+            "wavelength": 16.98,
+            "power": 14522.0836,
+            "density_per_unit": 0.058894
+          },
+          {
+            "rank": 4,
+            "frequency": 0.060083,
+            "wavelength": 16.64,
+            "power": 11783.1803,
+            "density_per_unit": 0.060083
+          },
+          {
+            "rank": 5,
+            "frequency": 0.064247,
+            "wavelength": 15.56,
+            "power": 18342.0759,
+            "density_per_unit": 0.064247
+          },
+          {
+            "rank": 6,
+            "frequency": 0.067222,
+            "wavelength": 14.88,
+            "power": 11501.2136,
+            "density_per_unit": 0.067222
+          },
+          {
+            "rank": 7,
+            "frequency": 0.070791,
+            "wavelength": 14.13,
+            "power": 28238.632,
+            "density_per_unit": 0.070791
+          },
+          {
+            "rank": 8,
+            "frequency": 0.073766,
+            "wavelength": 13.56,
+            "power": 23597.7384,
+            "density_per_unit": 0.073766
+          },
+          {
+            "rank": 9,
+            "frequency": 0.07674,
+            "wavelength": 13.03,
+            "power": 23817.0121,
+            "density_per_unit": 0.07674
+          },
+          {
+            "rank": 10,
+            "frequency": 0.080904,
+            "wavelength": 12.36,
+            "power": 25773.7794,
+            "density_per_unit": 0.080904
+          }
+        ]
+      },
+      {
+        "p0": [
+          933.7,
+          3655.2
+        ],
+        "p1": [
+          3537.8,
+          2574.9
+        ],
+        "line_length_px": 2819.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.051082,
+            "wavelength": 19.58,
+            "power": 10334.432,
+            "density_per_unit": 0.051082
+          },
+          {
+            "rank": 2,
+            "frequency": 0.052501,
+            "wavelength": 19.05,
+            "power": 6080.9867,
+            "density_per_unit": 0.052501
+          },
+          {
+            "rank": 3,
+            "frequency": 0.054275,
+            "wavelength": 18.42,
+            "power": 6266.2822,
+            "density_per_unit": 0.054275
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057467,
+            "wavelength": 17.4,
+            "power": 11434.5137,
+            "density_per_unit": 0.057467
+          },
+          {
+            "rank": 5,
+            "frequency": 0.05995,
+            "wavelength": 16.68,
+            "power": 6755.3425,
+            "density_per_unit": 0.05995
+          },
+          {
+            "rank": 6,
+            "frequency": 0.061369,
+            "wavelength": 16.29,
+            "power": 14726.7713,
+            "density_per_unit": 0.061369
+          },
+          {
+            "rank": 7,
+            "frequency": 0.062433,
+            "wavelength": 16.02,
+            "power": 11641.4593,
+            "density_per_unit": 0.062433
+          },
+          {
+            "rank": 8,
+            "frequency": 0.063852,
+            "wavelength": 15.66,
+            "power": 9308.9706,
+            "density_per_unit": 0.063852
+          },
+          {
+            "rank": 9,
+            "frequency": 0.065626,
+            "wavelength": 15.24,
+            "power": 14104.7728,
+            "density_per_unit": 0.065626
+          },
+          {
+            "rank": 10,
+            "frequency": 0.0674,
+            "wavelength": 14.84,
+            "power": 6918.1099,
+            "density_per_unit": 0.0674
+          }
+        ]
+      },
+      {
+        "p0": [
+          2139.2,
+          3529.9
+        ],
+        "p1": [
+          3950.1,
+          2757.5
+        ],
+        "line_length_px": 1968.7,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050279,
+            "wavelength": 19.89,
+            "power": 33027.2669,
+            "density_per_unit": 0.050279
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053327,
+            "wavelength": 18.75,
+            "power": 72743.5412,
+            "density_per_unit": 0.053327
+          },
+          {
+            "rank": 3,
+            "frequency": 0.05485,
+            "wavelength": 18.23,
+            "power": 33864.2081,
+            "density_per_unit": 0.05485
+          },
+          {
+            "rank": 4,
+            "frequency": 0.05739,
+            "wavelength": 17.42,
+            "power": 19332.4291,
+            "density_per_unit": 0.05739
+          },
+          {
+            "rank": 5,
+            "frequency": 0.065515,
+            "wavelength": 15.26,
+            "power": 42619.4062,
+            "density_per_unit": 0.065515
+          },
+          {
+            "rank": 6,
+            "frequency": 0.067039,
+            "wavelength": 14.92,
+            "power": 45287.4841,
+            "density_per_unit": 0.067039
+          },
+          {
+            "rank": 7,
+            "frequency": 0.068563,
+            "wavelength": 14.59,
+            "power": 29530.8988,
+            "density_per_unit": 0.068563
+          },
+          {
+            "rank": 8,
+            "frequency": 0.072626,
+            "wavelength": 13.77,
+            "power": 13836.5179,
+            "density_per_unit": 0.072626
+          },
+          {
+            "rank": 9,
+            "frequency": 0.079228,
+            "wavelength": 12.62,
+            "power": 14025.6216,
+            "density_per_unit": 0.079228
+          },
+          {
+            "rank": 10,
+            "frequency": 0.084815,
+            "wavelength": 11.79,
+            "power": 21537.0939,
+            "density_per_unit": 0.084815
+          }
+        ]
+      }
+    ],
+    "20251210_155819.JPG": [
+      {
+        "p0": [
+          479.6,
+          3055.0
+        ],
+        "p1": [
+          2546.2,
+          2715.8
+        ],
+        "line_length_px": 2094.3,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050143,
+            "wavelength": 19.94,
+            "power": 3860.1236,
+            "density_per_unit": 0.050143
+          },
+          {
+            "rank": 2,
+            "frequency": 0.051098,
+            "wavelength": 19.57,
+            "power": 3069.4627,
+            "density_per_unit": 0.051098
+          },
+          {
+            "rank": 3,
+            "frequency": 0.052053,
+            "wavelength": 19.21,
+            "power": 7545.3059,
+            "density_per_unit": 0.052053
+          },
+          {
+            "rank": 4,
+            "frequency": 0.054919,
+            "wavelength": 18.21,
+            "power": 8064.5603,
+            "density_per_unit": 0.054919
+          },
+          {
+            "rank": 5,
+            "frequency": 0.057307,
+            "wavelength": 17.45,
+            "power": 10865.8318,
+            "density_per_unit": 0.057307
+          },
+          {
+            "rank": 6,
+            "frequency": 0.059694,
+            "wavelength": 16.75,
+            "power": 2618.9275,
+            "density_per_unit": 0.059694
+          },
+          {
+            "rank": 7,
+            "frequency": 0.061127,
+            "wavelength": 16.36,
+            "power": 6309.5049,
+            "density_per_unit": 0.061127
+          },
+          {
+            "rank": 8,
+            "frequency": 0.067335,
+            "wavelength": 14.85,
+            "power": 2676.5348,
+            "density_per_unit": 0.067335
+          },
+          {
+            "rank": 9,
+            "frequency": 0.075931,
+            "wavelength": 13.17,
+            "power": 2611.5905,
+            "density_per_unit": 0.075931
+          },
+          {
+            "rank": 10,
+            "frequency": 0.085482,
+            "wavelength": 11.7,
+            "power": 2121.9316,
+            "density_per_unit": 0.085482
+          }
+        ]
+      },
+      {
+        "p0": [
+          3997.1,
+          2580.1
+        ],
+        "p1": [
+          6950.9,
+          1818.2
+        ],
+        "line_length_px": 3050.5,
+        "band_width_px": 5,
+        "calibration_um_per_px": 1.0,
+        "unit": "px",
+        "freq_cutoff": 0.05,
+        "peak_threshold": 0.005,
+        "peaks": [
+          {
+            "rank": 1,
+            "frequency": 0.050164,
+            "wavelength": 19.93,
+            "power": 37338.7393,
+            "density_per_unit": 0.050164
+          },
+          {
+            "rank": 2,
+            "frequency": 0.053115,
+            "wavelength": 18.83,
+            "power": 39732.6052,
+            "density_per_unit": 0.053115
+          },
+          {
+            "rank": 3,
+            "frequency": 0.054754,
+            "wavelength": 18.26,
+            "power": 69763.2938,
+            "density_per_unit": 0.054754
+          },
+          {
+            "rank": 4,
+            "frequency": 0.057377,
+            "wavelength": 17.43,
+            "power": 63703.4646,
+            "density_per_unit": 0.057377
+          },
+          {
+            "rank": 5,
+            "frequency": 0.059344,
+            "wavelength": 16.85,
+            "power": 111000.7819,
+            "density_per_unit": 0.059344
+          },
+          {
+            "rank": 6,
+            "frequency": 0.060656,
+            "wavelength": 16.49,
+            "power": 122978.9798,
+            "density_per_unit": 0.060656
+          },
+          {
+            "rank": 7,
+            "frequency": 0.063934,
+            "wavelength": 15.64,
+            "power": 80551.5635,
+            "density_per_unit": 0.063934
+          },
+          {
+            "rank": 8,
+            "frequency": 0.065902,
+            "wavelength": 15.17,
+            "power": 47204.6272,
+            "density_per_unit": 0.065902
+          },
+          {
+            "rank": 9,
+            "frequency": 0.07541,
+            "wavelength": 13.26,
+            "power": 37162.6158,
+            "density_per_unit": 0.07541
+          },
+          {
+            "rank": 10,
+            "frequency": 0.077705,
+            "wavelength": 12.87,
+            "power": 36768.2756,
+            "density_per_unit": 0.077705
+          }
+        ]
+      }
+    ]
+  }
+}

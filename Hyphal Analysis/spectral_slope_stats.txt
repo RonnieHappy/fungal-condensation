@@ -1,0 +1,38 @@
+=================================================================
+SPECTRAL SLOPE ANALYSIS: Aspergillus vs Mucor
+=================================================================
+
+Frequency range for slope fit: [0.01, 0.45] cycles/px
+
+Aspergillus (Green fungus — images from Lab/Green/):
+  n = 70 transects
+  slope = -2.938 ± 0.326 (mean ± SD)
+  SEM = 0.0390
+  median = -2.947
+  range = [-3.977, -2.283]
+  mean R² of log-log fit = 0.727
+
+Mucor (White fungus — images from VMS_JPG/W2/):
+  n = 40 transects
+  slope = -3.904 ± 0.434 (mean ± SD)
+  SEM = 0.0687
+  median = -3.878
+  range = [-4.775, -3.008]
+  mean R² of log-log fit = 0.756
+
+--- Statistical Tests ---
+Welch's t-test:  t = 12.224, p = 1.941e-18
+Mann-Whitney U:  U = 2695.0, p = 8.721e-16
+Cohen's d = 2.616
+Effect size r = -0.925
+
+Shapiro-Wilk normality:
+  Aspergillus: W = 0.9739, p = 0.1508
+  Mucor:       W = 0.9872, p = 0.9237
+
+Levene's test (equal var): F = 5.080, p = 0.0262
+Kolmogorov-Smirnov: D = 0.804, p = 4.988e-17
+
+--- Dry-Zone Width (δ) from condensation data ---
+Green (Aspergillus): δ = 298.1 ± 7.1 µm (mean ± SEM, n=5)
+White (Mucor):       δ = 139.9 ± 14.8 µm (mean ± SEM, n=5)

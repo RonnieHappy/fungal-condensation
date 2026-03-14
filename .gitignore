@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Trash and experimental additions
+trash/
+additions/
+
+# Python
+__pycache__/
+*.pyc
+
+# Heavy binary files (NPY masks, images) — hosted on OSF
+*.npy
+*.tif
+*.tiff
+*.jpg
+*.JPG
+*.png
+!**/output/*.png
